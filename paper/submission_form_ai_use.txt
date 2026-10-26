@@ -1,0 +1,5 @@
+Use of generative AI (text for the OpenReview submission form, not for the paper file)
+
+Generative AI produced this manuscript, the coding standard, the analysis pipeline, the figures and the workflow appendix under the direction of a human orchestrator, who is responsible for the final version. A co-author commented on the fit of the paper with IS and on the research questions, and these comments are recorded in the appendix (Table A3). The primary agent was claude-sonnet-5.5 with sub-agents on the same model, and the two coders were GPT-6.1-sol and Gemini-4-argon. An Azure OpenAI image model drew the figure drafts and icons, and a further model (big-pickle) built an intermediate version of the figures. The workflow appendix documents prompts, interventions, errors and verification.
+
+Why this text is separate: the human decided on 26 October 2026 (I045) that the paper file does not need this section because the submission form asks for it. The author list in the form must agree with the statement about the human orchestrator and the co-author.

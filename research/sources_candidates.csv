@@ -1,0 +1,76 @@
+src_id,strand,authors,year,title,venue,doi_or_arxiv,verification_level,content_status,use
+S001,A,Anderson & Krathwohl (eds.) / Krathwohl,2001/2002,A Taxonomy for Learning Teaching and Assessing / A Revision of Bloom's Taxonomy: An Overview,Longman / Theory Into Practice,10.1207/s15430421tip4104_2,bibliographic_match,from_memory,cognitive process x knowledge dimension
+S002,A,de Jong & Ferguson-Hessler,1996,Types and qualities of knowledge,Educational Psychologist,10.1207/s15326985ep3102_2,bibliographic_match,from_memory,knowledge types (situational/conceptual/procedural/strategic)
+S003,A,Nonaka,1994,A Dynamic Theory of Organizational Knowledge Creation,Organization Science,10.1287/orsc.5.1.14,bibliographic_match,from_memory,tacit/explicit; externalization
+S004,A,Polanyi,1966,The Tacit Dimension,Doubleday (book),OpenLibrary,bibliographic_match,from_memory,tacit knowledge not observable
+S005,A,Anderson et al.,2004,An Integrated Theory of the Mind,Psychological Review,10.1037/0033-295x.111.4.1036,bibliographic_match,from_memory,declarative vs procedural
+S006,A,Newell & Simon,1972,Human Problem Solving,Prentice-Hall (book),OpenLibrary,bibliographic_match,from_memory,problem space
+S007,A,Simon,1960,The New Science of Management Decision,Harper (book),OpenLibrary,bibliographic_match,from_memory,intelligence-design-choice
+S008,A,Mintzberg Raisinghani Theoret,1976,The Structure of Unstructured Decision Processes,Administrative Science Quarterly,10.2307/2392045,bibliographic_match,from_memory,decision as process
+S009,A,Klein Calderwood Clinton-Cirocco,1988/2010,Rapid Decision Making on the Fire Ground,DTIC / J Cognitive Eng Decision Making,10.1518/155534310x12844000801203,bibliographic_match,from_memory,recognition-primed decision
+S010,A,Schon,1983,The Reflective Practitioner,Basic Books (book),OpenLibrary,bibliographic_match,from_memory,reflection-in-action; design as conversation
+S011,A,Cross,1982,Designerly ways of knowing,Design Studies,10.1016/0142-694x(82)90040-0,bibliographic_match,from_memory,design cognition
+S012,A,Dorst & Cross,2001,Creativity in the design process: co-evolution of problem-solution,Design Studies,10.1016/s0142-694x(01)00009-6,bibliographic_match,from_memory,problem-solution co-evolution
+S013,A/C,Gero & Kannengiesser,2004,The situated function-behaviour-structure framework,Design Studies,10.1016/j.destud.2003.10.010,bibliographic_match,from_memory,FBS coding of design protocols
+S014,A,Kirsh & Maglio,1994,On Distinguishing Epistemic from Pragmatic Action,Cognitive Science,10.1207/s15516709cog1804_1,bibliographic_match,from_memory,epistemic vs pragmatic action
+S015,A,Hutchins,1995,Cognition in the Wild,MIT Press (book),OpenLibrary,bibliographic_match,from_memory,distributed cognition
+S016,A,Clark & Chalmers,1998,The Extended Mind,Analysis,10.1093/analys/58.1.7,bibliographic_match,from_memory,extended mind; attribution problem
+S017,A,Risko & Gilbert,2016,Cognitive Offloading,Trends in Cognitive Sciences,10.1016/j.tics.2016.07.002,bibliographic_match,from_memory,offloading
+S018,A,Hollan Hutchins Kirsh,2000,Distributed cognition: toward a new foundation for HCI research,ACM TOCHI,10.1145/353485.353487,bibliographic_match,from_memory,DCog for HCI
+S019,A,Zhang & Norman,1994,Representations in Distributed Cognitive Tasks,Cognitive Science,10.1207/s15516709cog1801_3,bibliographic_match,from_memory,external representations
+S020,A/C,Chi & Wylie,2014,The ICAP Framework,Educational Psychologist,10.1080/00461520.2014.965823,bibliographic_match,from_memory,observable engagement modes
+S021,A/C,Chi,1997,Quantifying Qualitative Analyses of Verbal Data: A Practical Guide,Journal of the Learning Sciences,10.1207/s15327809jls0603_1,bibliographic_match,from_memory,verbal data coding method
+S022,A,Flavell,1979,Metacognition and cognitive monitoring,American Psychologist,10.1037/0003-066x.34.10.906,bibliographic_match,from_memory,metacognition
+S023,A,Nelson & Narens,1990,Metamemory: A Theoretical Framework and New Findings,Psychology of Learning and Motivation,10.1016/s0079-7421(08)60053-5,bibliographic_match,from_memory,monitoring/control (Crossref lists only Nelson)
+S024,A,Zimmerman,2002,Becoming a Self-Regulated Learner,Theory Into Practice,10.1207/s15430421tip4102_2,bibliographic_match,from_memory,SRL phases
+S025,A,Klahr & Dunbar,1988,Dual Space Search During Scientific Reasoning,Cognitive Science,10.1207/s15516709cog1201_1,bibliographic_match,from_memory,hypothesis space vs experiment space
+S026,A,Guilford,1950,Creativity,American Psychologist,10.1037/h0063487,bibliographic_match,from_memory,divergent/convergent
+S027,A,Finke Ward Smith,1992,Creative Cognition,MIT Press,10.7551/mitpress/7722.001.0001,bibliographic_match,from_memory,Geneplore generate/explore
+S028,A,Ericsson & Simon,1980,Verbal reports as data,Psychological Review,10.1037/0033-295x.87.3.215,bibliographic_match,from_memory,verbal traces reflect cognition
+S029,A/C,Garrison Anderson Archer,2001,"Critical thinking, cognitive presence, and computer conferencing in distance education",American Journal of Distance Education,10.1080/08923640109527071,bibliographic_match,from_memory,cognitive presence phases
+S030,B,Raisch & Krakowski,2021,Artificial Intelligence and Management: The Automation-Augmentation Paradox,Academy of Management Review,10.5465/amr.2018.0072,bibliographic_match,from_memory,IS/mgmt frame
+S031,B,Dellermann Ebel Sollner Leimeister,2019,Hybrid Intelligence,Business & Information Systems Engineering,10.1007/s12599-019-00595-2,bibliographic_match,from_memory,hybrid intelligence
+S032,B,Berente Gu Recker Santhanam,2021,Managing Artificial Intelligence,MIS Quarterly,10.25300/misq/2021/16274,bibliographic_match,from_memory,AI in IS
+S033,B,Jarrahi,2018,AI and the future of work: Human-AI symbiosis in organizational decision making,Business Horizons,10.1016/j.bushor.2018.03.007,bibliographic_match,from_memory,uncertainty/complexity/equivocality
+S034,B,Fugener Grahl Gupta Ketter,2021,Will Humans-in-the-Loop Become Borgs?,MIS Quarterly,10.25300/misq/2021/16553,bibliographic_match,from_memory,delegation; metacognition
+S035,B,Vaccaro Almaatouq Malone,2024,When combinations of humans and AI are useful: A systematic review and meta-analysis,Nature Human Behaviour,10.1038/s41562-024-02024-1,abstract_read_by_parent(Crossref),abstract_read,losses in decision tasks; gains in content creation (task-type moderates)
+S036,B,Hemmer Schemmer Kuhl Vossing Satzger,2025,Complementarity in human-AI collaboration: concept sources and evidence,European Journal of Information Systems,10.1080/0960085x.2025.2475962,bibliographic_match,from_memory,complementarity
+S037,B,Murray Rhymer Sirmon,2021,Humans and Technology: Forms of Conjoined Agency in Organizations,Academy of Management Review,10.5465/amr.2019.0186,bibliographic_match,from_memory,conjoined agency
+S038,B,Seeber et al.,2020,Machines as teammates: A research agenda on AI in team collaboration,Information & Management,10.1016/j.im.2019.103174,bibliographic_match,from_memory,AI teammate
+S039,B,Shrestha Ben-Menahem von Krogh,2019,Organizational Decision-Making Structures in the Age of AI,California Management Review,10.1177/0008125619862257,bibliographic_match,from_memory,decision structures
+S040,B,Dell'Acqua et al.,2026,Navigating the Jagged Technological Frontier,Organization Science,10.1287/orsc.2025.21838,bibliographic_match,from_memory,jagged frontier; centaur/cyborg
+S041,B,Noy & Zhang,2023,Experimental evidence on the productivity effects of generative AI,Science,10.1126/science.adh2586,bibliographic_match,from_memory,writing productivity
+S042,B,Messeri & Crockett,2024,Artificial intelligence and illusions of understanding in scientific research,Nature,10.1038/s41586-024-07146-0,bibliographic_match,from_memory,epistemic risks in science
+S043,B,Lu et al.,2024,The AI Scientist,arXiv,arXiv:2408.06292,abstract_read,abstract_read,fully automated research
+S044,B,Si Yang Hashimoto,2024,Can LLMs Generate Novel Research Ideas?,arXiv,arXiv:2409.04109,abstract_read,abstract_read,ideation novelty vs feasibility
+S045,B,Gottweis et al.,2026,Accelerating scientific discovery with Co-Scientist,Nature,10.1038/s41586-026-10644-y,abstract_read_by_parent(Crossref),abstract_read,multi-agent generate-critique-refine
+S046,B,Eger et al.,2025,Transforming Science with LLMs: A Survey,arXiv,arXiv:2502.05151,abstract_read,abstract_read,lifecycle taxonomy
+S047,B,Lee Sarkar Tankelevitch et al.,2025,The Impact of Generative AI on Critical Thinking,CHI 2025,10.1145/3706598.3713778,bibliographic_match,from_memory,shift to verification/integration/stewardship
+S048,B,Kosmyna et al.,2025,Your Brain on ChatGPT,arXiv preprint,arXiv:2506.08872,abstract_read,abstract_read,ownership/cognitive debt (preprint)
+S049,B/C,Handa et al.,2025,Which Economic Tasks are Performed with AI?,arXiv,arXiv:2503.04761,abstract_read,abstract_read,trace-based task coding precedent; augmentation vs automation
+S050,B,Horvitz,1999,Principles of mixed-initiative user interfaces,CHI 1999,10.1145/302979.303030,bibliographic_match,from_memory,initiative
+S051,B/C,Lee Liang Yang,2022,CoAuthor: Human-AI collaborative writing dataset,CHI 2022,10.1145/3491102.3502030,bibliographic_match,from_memory,keystroke trace precedent
+S052,B,Brand et al.,2015,"Beyond authorship: attribution, contribution, collaboration, and credit",Learned Publishing,10.1087/20150211,bibliographic_match,from_memory,CRediT
+S053,C,Clark & Brennan,1991,Grounding in communication,Perspectives on socially shared cognition,10.1037/10096-006,bibliographic_match,from_memory,uptake/grounding (proposal vs acceptance)
+S054,C,Goldschmidt,2014,Linkography,MIT Press,10.7551/mitpress/9455.001.0001,bibliographic_match,from_memory,backlinks/forelinks idea origin and uptake
+S055,C,Shaffer Collier Ruis,2016,A Tutorial on Epistemic Network Analysis,Journal of Learning Analytics,10.18608/jla.2016.33.3,bibliographic_match,from_memory,code co-occurrence analysis
+S056,C,Weinberger & Fischer,2006,A framework to analyze argumentative knowledge construction in CSCL,Computers & Education,10.1016/j.compedu.2005.04.003,bibliographic_match,from_memory,multi-dimension segment coding
+S057,C,Hesse Care Buder Sassenberg Griffin,2015,A Framework for Teachable Collaborative Problem Solving Skills,Assessment and Teaching of 21st Century Skills,10.1007/978-94-017-9395-7_2,bibliographic_match,from_memory,CPS skills
+S058,C,Walker & Whittaker,1990,Mixed initiative in dialogue,ACL 1990,10.3115/981823.981833,bibliographic_match,from_memory,initiative operationalisation
+S059,C,Tankelevitch et al.,2024,The Metacognitive Demands and Opportunities of Generative AI,CHI 2024,10.1145/3613904.3642902,bibliographic_match,from_memory,metacognition in GenAI use
+S060,C,Tamkin et al.,2024,Clio: Privacy-Preserving Insights into Real-World AI Use,arXiv,arXiv:2412.13678,abstract_read,abstract_read,AI-assisted analysis of conversations
+S061,C,Hayes & Krippendorff,2007,Answering the Call for a Standard Reliability Measure for Coding Data,Communication Methods and Measures,10.1080/19312450709336664,bibliographic_match,from_memory,Krippendorff alpha
+S062,C,Artstein & Poesio,2008,Inter-Coder Agreement for Computational Linguistics,Computational Linguistics,10.1162/coli.07-034-r2,bibliographic_match,from_memory,choice of agreement coefficient
+S063,C,Campbell Quincy Osserman Pedersen,2013,Coding In-depth Semistructured Interviews,Sociological Methods & Research,10.1177/0049124113500475,bibliographic_match,from_memory,reconciliation in team coding
+S064,C,MacQueen McLellan Kay Milstein,1998,Codebook Development for Team-Based Qualitative Analysis,CAM Journal,10.1177/1525822x980100020301,bibliographic_match,from_memory,codebook structure
+S065,C,Gilardi Alizadeh Kubli,2023,ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks,PNAS,10.1073/pnas.2305016120,bibliographic_match+abstract_read,abstract_read,LLM annotation
+S066,C,Ziems et al.,2024,Can Large Language Models Transform Computational Social Science?,Computational Linguistics,arXiv:2305.03514,abstract_read,abstract_read,LLM as annotator on teams
+S067,C,Pangakis Wolken Fasching,2023,Automated Annotation with Generative AI Requires Validation,arXiv,arXiv:2306.00176,abstract_read,abstract_read,validate LLM labels
+S068,C,Xiao et al.,2023,Supporting Qualitative Analysis with LLMs: Combining Codebook with GPT-3 for Deductive Coding,IUI 2023,10.1145/3581754.3584136,bibliographic_match,from_memory,codebook + LLM deductive coding
+S069,C,Gao Choo Cao Lee Perrault,2023,CoAIcoder,ACM TOCHI,10.1145/3617362,bibliographic_match,from_memory,human-AI qualitative coding
+S070,C,Zheng et al.,2023,Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena,NeurIPS D&B 2023,arXiv:2306.05685,abstract_read,abstract_read,self-enhancement bias
+S071,C,Panickssery Bowman Feng,2024,LLM Evaluators Recognize and Favor Their Own Generations,arXiv,arXiv:2404.13076,abstract_read,abstract_read,self-preference bias (AI coding its own contributions)
+S072,C,Hevner March Park Ram,2004,Design Science in Information Systems Research,MIS Quarterly,10.2307/25148625,bibliographic_match,from_memory,coding scheme as artifact
+S073,C,Gregor & Hevner,2013,Positioning and Presenting Design Science Research for Maximum Impact,MIS Quarterly,10.25300/misq/2013/37.2.01,bibliographic_match,from_memory,contribution types
+S074,C,Eisenhardt,1989,Building Theories from Case Study Research,Academy of Management Review,10.2307/258557,bibliographic_match,from_memory,single case
+S075,B,Costa et al.,2025,AI as a Co-researcher in the Qualitative Research Workflow,International Journal of Qualitative Methods,10.1177/16094069251383739,bibliographic_match,not_read,NEAR NEIGHBOUR - read before submission

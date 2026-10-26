@@ -1,0 +1,27 @@
+{
+  "sheet_id": "sheet-b2",
+  "canvas_px": [
+    1536,
+    1024
+  ],
+  "grid": [
+    3,
+    2
+  ],
+  "cell_px": [
+    512,
+    512
+  ],
+  "key": "#FF00FF",
+  "order": [
+    "st_lit",
+    "st_theory",
+    "st_design",
+    "st_analysis",
+    "st_interp",
+    "st_write"
+  ],
+  "prompt_file": "prompts\\sheet-b2.txt",
+  "prompt_chars_nonspace": 2828,
+  "plan_sha256": "27ae3e8ea82be39736c3e26e1950ddecde0fc9352aae9fb59182d8dc6225598c"
+}

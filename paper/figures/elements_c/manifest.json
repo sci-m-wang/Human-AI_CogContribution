@@ -1,0 +1,700 @@
+{
+  "version": 1,
+  "elements": [
+    {
+      "id": "human",
+      "route": "generate",
+      "file": "assets\\human.png",
+      "size_px": [
+        350,
+        411
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        344,
+        405
+      ],
+      "sheet": "sheet-c1",
+      "sheet_cell_px": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "key": "#FF00FF",
+      "sha256": "14ad1477d49e48166ac369a52f001b2d18c57a16144db9705151516dde5276fc",
+      "qa": {
+        "status": "pass",
+        "size_px": [
+          350,
+          411
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "visible_bbox_px": [
+          6,
+          6,
+          344,
+          405
+        ],
+        "visible_size_px": [
+          338,
+          399
+        ],
+        "visible_fraction": 0.5974,
+        "components": 1,
+        "edge_key_spill": 0.0,
+        "placed_width_mm": 18.26,
+        "effective_dpi": 470.1,
+        "required_px_at_target": 216,
+        "problems": [],
+        "warnings": []
+      },
+      "raster_reason": "Independent illustrative artwork produced with an image model and a key-color cutout; it has no editable native equivalent and carries no empirical data.",
+      "decomposition_note": "Single element cut from a clean asset sheet; labels, arrows, frames and other reconstructable objects are rebuilt natively outside this picture.",
+      "role": "schematic illustration (not empirical data)"
+    },
+    {
+      "id": "agent",
+      "route": "generate",
+      "file": "assets\\agent.png",
+      "size_px": [
+        333,
+        410
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        327,
+        404
+      ],
+      "sheet": "sheet-c1",
+      "sheet_cell_px": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "key": "#FF00FF",
+      "sha256": "e35cd786a9571ef54feb6b00c7c3a1399d1a876ef882e9aff77944359626d941",
+      "qa": {
+        "status": "pass",
+        "size_px": [
+          333,
+          410
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "visible_bbox_px": [
+          6,
+          6,
+          327,
+          404
+        ],
+        "visible_size_px": [
+          321,
+          398
+        ],
+        "visible_fraction": 0.5982,
+        "components": 1,
+        "edge_key_spill": 0.0,
+        "placed_width_mm": 18.26,
+        "effective_dpi": 446.5,
+        "required_px_at_target": 216,
+        "problems": [],
+        "warnings": []
+      },
+      "raster_reason": "Independent illustrative artwork produced with an image model and a key-color cutout; it has no editable native equivalent and carries no empirical data.",
+      "decomposition_note": "Single element cut from a clean asset sheet; labels, arrows, frames and other reconstructable objects are rebuilt natively outside this picture.",
+      "role": "schematic illustration (not empirical data)"
+    },
+    {
+      "id": "primary_agent",
+      "route": "generate",
+      "file": "assets\\primary_agent.png",
+      "size_px": [
+        388,
+        412
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        382,
+        406
+      ],
+      "sheet": "sheet-c1",
+      "sheet_cell_px": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "key": "#FF00FF",
+      "sha256": "5bae2906cf1193fc4b8192466c3ddbedc7bdc71c3cef6e27954146789468d574",
+      "qa": {
+        "status": "pass",
+        "size_px": [
+          388,
+          412
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "visible_bbox_px": [
+          6,
+          6,
+          382,
+          406
+        ],
+        "visible_size_px": [
+          376,
+          400
+        ],
+        "visible_fraction": 0.5573,
+        "components": 1,
+        "edge_key_spill": 0.0,
+        "placed_width_mm": 18.26,
+        "effective_dpi": 523.0,
+        "required_px_at_target": 216,
+        "problems": [],
+        "warnings": []
+      },
+      "raster_reason": "Independent illustrative artwork produced with an image model and a key-color cutout; it has no editable native equivalent and carries no empirical data.",
+      "decomposition_note": "Single element cut from a clean asset sheet; labels, arrows, frames and other reconstructable objects are rebuilt natively outside this picture.",
+      "role": "schematic illustration (not empirical data)"
+    },
+    {
+      "id": "subagents",
+      "route": "generate",
+      "file": "assets\\subagents.png",
+      "size_px": [
+        420,
+        327
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        414,
+        321
+      ],
+      "sheet": "sheet-c1",
+      "sheet_cell_px": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "key": "#FF00FF",
+      "sha256": "1d7831d2a8a41290d807f485d97aaf7a92b5fa234a2e645d951ce60ce95ae971",
+      "qa": {
+        "status": "pass",
+        "size_px": [
+          420,
+          327
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "visible_bbox_px": [
+          6,
+          6,
+          414,
+          321
+        ],
+        "visible_size_px": [
+          408,
+          315
+        ],
+        "visible_fraction": 0.6284,
+        "components": 2,
+        "edge_key_spill": 0.0,
+        "placed_width_mm": 18.26,
+        "effective_dpi": 567.5,
+        "required_px_at_target": 216,
+        "problems": [],
+        "warnings": []
+      },
+      "raster_reason": "Independent illustrative artwork produced with an image model and a key-color cutout; it has no editable native equivalent and carries no empirical data.",
+      "decomposition_note": "Single element cut from a clean asset sheet; labels, arrows, frames and other reconstructable objects are rebuilt natively outside this picture.",
+      "role": "schematic illustration (not empirical data)"
+    },
+    {
+      "id": "knowledge",
+      "route": "generate",
+      "file": "assets\\knowledge.png",
+      "size_px": [
+        403,
+        336
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        397,
+        330
+      ],
+      "sheet": "sheet-c1",
+      "sheet_cell_px": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "key": "#FF00FF",
+      "sha256": "a71b65ebf4f5f25727b26702f1985c14ac5f4c85c055abc5122c71413f2b219e",
+      "qa": {
+        "status": "pass",
+        "size_px": [
+          403,
+          336
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "visible_bbox_px": [
+          6,
+          6,
+          397,
+          330
+        ],
+        "visible_size_px": [
+          391,
+          324
+        ],
+        "visible_fraction": 0.7513,
+        "components": 1,
+        "edge_key_spill": 0.0,
+        "placed_width_mm": 18.26,
+        "effective_dpi": 543.8,
+        "required_px_at_target": 216,
+        "problems": [],
+        "warnings": []
+      },
+      "raster_reason": "Independent illustrative artwork produced with an image model and a key-color cutout; it has no editable native equivalent and carries no empirical data.",
+      "decomposition_note": "Single element cut from a clean asset sheet; labels, arrows, frames and other reconstructable objects are rebuilt natively outside this picture.",
+      "role": "schematic illustration (not empirical data)"
+    },
+    {
+      "id": "proposal",
+      "route": "generate",
+      "file": "assets\\proposal.png",
+      "size_px": [
+        400,
+        375
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        394,
+        369
+      ],
+      "sheet": "sheet-c1",
+      "sheet_cell_px": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "key": "#FF00FF",
+      "sha256": "7dea8fe78c8dac21cbda72afc2f3fed37e8a1d521e4c8d38f03f9f0001b4ca8e",
+      "qa": {
+        "status": "pass",
+        "size_px": [
+          400,
+          375
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "visible_bbox_px": [
+          6,
+          6,
+          394,
+          369
+        ],
+        "visible_size_px": [
+          388,
+          363
+        ],
+        "visible_fraction": 0.709,
+        "components": 1,
+        "edge_key_spill": 0.0,
+        "placed_width_mm": 18.26,
+        "effective_dpi": 539.7,
+        "required_px_at_target": 216,
+        "problems": [],
+        "warnings": []
+      },
+      "raster_reason": "Independent illustrative artwork produced with an image model and a key-color cutout; it has no editable native equivalent and carries no empirical data.",
+      "decomposition_note": "Single element cut from a clean asset sheet; labels, arrows, frames and other reconstructable objects are rebuilt natively outside this picture.",
+      "role": "schematic illustration (not empirical data)"
+    },
+    {
+      "id": "decision",
+      "route": "generate",
+      "file": "assets\\decision.png",
+      "size_px": [
+        376,
+        398
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        370,
+        392
+      ],
+      "sheet": "sheet-c2",
+      "sheet_cell_px": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "key": "#FF00FF",
+      "sha256": "16008904ce4974cd4321b9e56391911ff75d4d8473e1ff5e424044cec45a6095",
+      "qa": {
+        "status": "pass",
+        "size_px": [
+          376,
+          398
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "visible_bbox_px": [
+          6,
+          6,
+          370,
+          392
+        ],
+        "visible_size_px": [
+          364,
+          386
+        ],
+        "visible_fraction": 0.5259,
+        "components": 1,
+        "edge_key_spill": 0.0,
+        "placed_width_mm": 18.26,
+        "effective_dpi": 506.3,
+        "required_px_at_target": 216,
+        "problems": [],
+        "warnings": []
+      },
+      "raster_reason": "Independent illustrative artwork produced with an image model and a key-color cutout; it has no editable native equivalent and carries no empirical data.",
+      "decomposition_note": "Single element cut from a clean asset sheet; labels, arrows, frames and other reconstructable objects are rebuilt natively outside this picture.",
+      "role": "schematic illustration (not empirical data)"
+    },
+    {
+      "id": "metacognition",
+      "route": "generate",
+      "file": "assets\\metacognition.png",
+      "size_px": [
+        391,
+        410
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        385,
+        404
+      ],
+      "sheet": "sheet-c2",
+      "sheet_cell_px": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "key": "#FF00FF",
+      "sha256": "851420ad3293525c54fe559e63cb02b662835a2b6ea609b82b21fc891db9bccd",
+      "qa": {
+        "status": "pass",
+        "size_px": [
+          391,
+          410
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "visible_bbox_px": [
+          6,
+          6,
+          385,
+          404
+        ],
+        "visible_size_px": [
+          379,
+          398
+        ],
+        "visible_fraction": 0.6847,
+        "components": 1,
+        "edge_key_spill": 0.0,
+        "placed_width_mm": 18.26,
+        "effective_dpi": 527.1,
+        "required_px_at_target": 216,
+        "problems": [],
+        "warnings": []
+      },
+      "raster_reason": "Independent illustrative artwork produced with an image model and a key-color cutout; it has no editable native equivalent and carries no empirical data.",
+      "decomposition_note": "Single element cut from a clean asset sheet; labels, arrows, frames and other reconstructable objects are rebuilt natively outside this picture.",
+      "role": "schematic illustration (not empirical data)"
+    },
+    {
+      "id": "execution",
+      "route": "generate",
+      "file": "assets\\execution.png",
+      "size_px": [
+        369,
+        362
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        363,
+        356
+      ],
+      "sheet": "sheet-c2",
+      "sheet_cell_px": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "key": "#FF00FF",
+      "sha256": "ed20c1111b9958a49a541aba46e72eb400eda3793417cee6a2b7034748f27b9f",
+      "qa": {
+        "status": "pass",
+        "size_px": [
+          369,
+          362
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "visible_bbox_px": [
+          6,
+          6,
+          363,
+          356
+        ],
+        "visible_size_px": [
+          357,
+          350
+        ],
+        "visible_fraction": 0.6534,
+        "components": 1,
+        "edge_key_spill": 0.0,
+        "placed_width_mm": 18.26,
+        "effective_dpi": 496.5,
+        "required_px_at_target": 216,
+        "problems": [],
+        "warnings": []
+      },
+      "raster_reason": "Independent illustrative artwork produced with an image model and a key-color cutout; it has no editable native equivalent and carries no empirical data.",
+      "decomposition_note": "Single element cut from a clean asset sheet; labels, arrows, frames and other reconstructable objects are rebuilt natively outside this picture.",
+      "role": "schematic illustration (not empirical data)"
+    },
+    {
+      "id": "doc_gears",
+      "route": "generate",
+      "file": "assets\\doc_gears.png",
+      "size_px": [
+        368,
+        373
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        362,
+        367
+      ],
+      "sheet": "sheet-c2",
+      "sheet_cell_px": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "key": "#FF00FF",
+      "sha256": "ffca168224b4094167acd87024d72f23bceda05c03915744ecd1ce26c3f18d67",
+      "qa": {
+        "status": "pass",
+        "size_px": [
+          368,
+          373
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "visible_bbox_px": [
+          6,
+          6,
+          362,
+          367
+        ],
+        "visible_size_px": [
+          356,
+          361
+        ],
+        "visible_fraction": 0.7164,
+        "components": 1,
+        "edge_key_spill": 0.0,
+        "placed_width_mm": 18.26,
+        "effective_dpi": 495.2,
+        "required_px_at_target": 216,
+        "problems": [],
+        "warnings": []
+      },
+      "raster_reason": "Independent illustrative artwork produced with an image model and a key-color cutout; it has no editable native equivalent and carries no empirical data.",
+      "decomposition_note": "Single element cut from a clean asset sheet; labels, arrows, frames and other reconstructable objects are rebuilt natively outside this picture.",
+      "role": "schematic illustration (not empirical data)"
+    },
+    {
+      "id": "bubble_h",
+      "route": "generate",
+      "file": "assets\\bubble_h.png",
+      "size_px": [
+        391,
+        314
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        385,
+        308
+      ],
+      "sheet": "sheet-c2",
+      "sheet_cell_px": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "key": "#FF00FF",
+      "sha256": "1473797900c74e4c9c0ccd9971ff90b8f083051b955934161ef2fd38cbf05ed8",
+      "qa": {
+        "status": "pass",
+        "size_px": [
+          391,
+          314
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "visible_bbox_px": [
+          6,
+          6,
+          385,
+          308
+        ],
+        "visible_size_px": [
+          379,
+          302
+        ],
+        "visible_fraction": 0.7316,
+        "components": 1,
+        "edge_key_spill": 0.0,
+        "placed_width_mm": 18.26,
+        "effective_dpi": 527.1,
+        "required_px_at_target": 216,
+        "problems": [],
+        "warnings": []
+      },
+      "raster_reason": "Independent illustrative artwork produced with an image model and a key-color cutout; it has no editable native equivalent and carries no empirical data.",
+      "decomposition_note": "Single element cut from a clean asset sheet; labels, arrows, frames and other reconstructable objects are rebuilt natively outside this picture.",
+      "role": "schematic illustration (not empirical data)"
+    },
+    {
+      "id": "bubble_a",
+      "route": "generate",
+      "file": "assets\\bubble_a.png",
+      "size_px": [
+        383,
+        312
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        377,
+        306
+      ],
+      "sheet": "sheet-c2",
+      "sheet_cell_px": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "key": "#FF00FF",
+      "sha256": "8a7ae7cb6a81b8bcd21d44f95872927d5699c39bdd06ff99553d20a0c897f57e",
+      "qa": {
+        "status": "pass",
+        "size_px": [
+          383,
+          312
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "visible_bbox_px": [
+          6,
+          6,
+          377,
+          306
+        ],
+        "visible_size_px": [
+          371,
+          300
+        ],
+        "visible_fraction": 0.7368,
+        "components": 1,
+        "edge_key_spill": 0.0,
+        "placed_width_mm": 18.26,
+        "effective_dpi": 516.0,
+        "required_px_at_target": 216,
+        "problems": [],
+        "warnings": []
+      },
+      "raster_reason": "Independent illustrative artwork produced with an image model and a key-color cutout; it has no editable native equivalent and carries no empirical data.",
+      "decomposition_note": "Single element cut from a clean asset sheet; labels, arrows, frames and other reconstructable objects are rebuilt natively outside this picture.",
+      "role": "schematic illustration (not empirical data)"
+    }
+  ],
+  "sheets": {
+    "sheet-c1": {
+      "layout": "prompts/sheet-c1.layout.json",
+      "prompt": "prompts\\sheet-c1.txt",
+      "cutout": "sheet-c1.rgba.png"
+    },
+    "sheet-c2": {
+      "layout": "prompts/sheet-c2.layout.json",
+      "prompt": "prompts\\sheet-c2.txt",
+      "cutout": "sheet-c2.rgba.png"
+    }
+  },
+  "figure": {
+    "id": "fig-recon-c",
+    "ref_image": "none",
+    "ref_size_px": [
+      1536,
+      1024
+    ],
+    "width_mm": 165,
+    "target_dpi": 300,
+    "background": "#FFFFFF"
+  }
+}

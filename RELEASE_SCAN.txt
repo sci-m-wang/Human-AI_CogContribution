@@ -1,0 +1,3 @@
+Leak scan of the release folder (text files). Patterns: email_body, user, home_path, email, organiser, resource, author_name, key, azure
+Allowed: surnames in reference metadata files (references_crossref.json, references_is_v3.json, references.txt, sources_candidates.csv, source_access_status.csv, evidence_synthesis_v1.md, icis_arxiv_candidates.json, structure_review_ICIS.md)
+Total hits: 0 in 0 files

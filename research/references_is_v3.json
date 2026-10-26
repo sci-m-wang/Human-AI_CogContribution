@@ -1,0 +1,233 @@
+{
+ "baird2021": {
+  "doi": "10.25300/misq/2021/15882",
+  "title": "The Next Generation of Research on IS Use: A Theoretical Framework of Delegation to and from Agentic IS Artifacts",
+  "authors": [
+   [
+    "Baird",
+    "Aaron"
+   ],
+   [
+    "Maruping",
+    "Likoebe M."
+   ]
+  ],
+  "year": 2021,
+  "container": "MIS Quarterly",
+  "volume": "45",
+  "issue": "1",
+  "page": "315-341"
+ },
+ "benbasat1987": {
+  "doi": "10.2307/248684",
+  "title": "The Case Research Strategy in Studies of Information Systems",
+  "authors": [
+   [
+    "Benbasat",
+    "Izak"
+   ],
+   [
+    "Goldstein",
+    "David K."
+   ],
+   [
+    "Mead",
+    "Melissa"
+   ]
+  ],
+  "year": 1987,
+  "container": "MIS Quarterly",
+  "volume": "11",
+  "issue": "3",
+  "page": "369-386"
+ },
+ "berente2021": {
+  "doi": "10.25300/misq/2021/16274",
+  "title": "Managing Artificial Intelligence",
+  "authors": [
+   [
+    "Berente",
+    "Nicholas"
+   ],
+   [
+    "Gu",
+    "Bin"
+   ],
+   [
+    "Recker",
+    "Jan"
+   ],
+   [
+    "Santhanam",
+    "Radhika"
+   ]
+  ],
+  "year": 2021,
+  "container": "MIS Quarterly",
+  "volume": "45",
+  "issue": "3",
+  "page": "1433-1450"
+ },
+ "fugener2022": {
+  "doi": "10.1287/isre.2021.1079",
+  "title": "Cognitive Challenges in Human–Artificial Intelligence Collaboration: Investigating the Path Toward Productive Delegation",
+  "authors": [
+   [
+    "Fügener",
+    "Andreas"
+   ],
+   [
+    "Grahl",
+    "Jörn"
+   ],
+   [
+    "Gupta",
+    "Alok"
+   ],
+   [
+    "Ketter",
+    "Wolfgang"
+   ]
+  ],
+  "year": 2022,
+  "container": "Information Systems Research",
+  "volume": "33",
+  "issue": "2",
+  "page": "678-696"
+ },
+ "gregor2006": {
+  "doi": "10.2307/25148742",
+  "title": "The Nature of Theory in Information Systems1",
+  "authors": [
+   [
+    "Gregor",
+    "Shirley"
+   ]
+  ],
+  "year": 2006,
+  "container": "MIS Quarterly",
+  "volume": "30",
+  "issue": "3",
+  "page": "611-642"
+ },
+ "gronsund2020": {
+  "doi": "10.1016/j.jsis.2020.101614",
+  "title": "Augmenting the algorithm: Emerging human-in-the-loop work configurations",
+  "authors": [
+   [
+    "Grønsund",
+    "Tor"
+   ],
+   [
+    "Aanestad",
+    "Margunn"
+   ]
+  ],
+  "year": 2020,
+  "container": "The Journal of Strategic Information Systems",
+  "volume": "29",
+  "issue": "2",
+  "page": "101614"
+ },
+ "leonardi2011": {
+  "doi": "10.2307/23043493",
+  "title": "When Flexible Routines Meet Flexible Technologies: Affordance, Constraint, and the Imbrication of Human and Material Agencies1",
+  "authors": [
+   [
+    "Leonardi",
+    "Paul M."
+   ]
+  ],
+  "year": 2011,
+  "container": "MIS Quarterly",
+  "volume": "35",
+  "issue": "1",
+  "page": "147-167"
+ },
+ "seeber2020": {
+  "doi": "10.1016/j.im.2019.103174",
+  "title": "Machines as teammates: A research agenda on AI in team collaboration",
+  "authors": [
+   [
+    "Seeber",
+    "Isabella"
+   ],
+   [
+    "Bittner",
+    "Eva"
+   ],
+   [
+    "Briggs",
+    "Robert O."
+   ],
+   [
+    "de Vreede",
+    "Triparna"
+   ],
+   [
+    "de Vreede",
+    "Gert-Jan"
+   ],
+   [
+    "Elkins",
+    "Aaron"
+   ],
+   [
+    "Maier",
+    "Ronald"
+   ],
+   [
+    "Merz",
+    "Alexander B."
+   ],
+   [
+    "Oeste-Reiß",
+    "Sarah"
+   ],
+   [
+    "Randrup",
+    "Nils"
+   ],
+   [
+    "Schwabe",
+    "Gerhard"
+   ],
+   [
+    "Söllner",
+    "Matthias"
+   ]
+  ],
+  "year": 2020,
+  "container": "Information &amp; Management",
+  "volume": "57",
+  "issue": "2",
+  "page": "103174"
+ },
+ "susarla2023": {
+  "doi": "10.1287/isre.2023.ed.v34.n2",
+  "title": "The Janus Effect of Generative AI: Charting the Path for Responsible Conduct of Scholarly Activities in Information Systems",
+  "authors": [
+   [
+    "Susarla",
+    "Anjana"
+   ],
+   [
+    "Gopal",
+    "Ram"
+   ],
+   [
+    "Thatcher",
+    "Jason Bennett"
+   ],
+   [
+    "Sarker",
+    "Suprateek"
+   ]
+  ],
+  "year": 2023,
+  "container": "Information Systems Research",
+  "volume": "34",
+  "issue": "2",
+  "page": "399-408"
+ }
+}

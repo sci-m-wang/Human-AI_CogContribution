@@ -1,0 +1,1038 @@
+{
+ "human|K": [
+  [
+   "S01-U005",
+   "K2",
+   "执行本身其实涉及的认知内容是比较少的，只是按照绘制好的蓝图施工"
+  ],
+  [
+   "S01-U014",
+   "K4",
+   "导师不是an organiser"
+  ],
+  [
+   "S01-U032",
+   "K2",
+   "智能体常常会给人类专家提供很多新的知识"
+  ],
+  [
+   "S01-U035",
+   "K2",
+   "而且通常评估的过程就带着偏好与选择。"
+  ],
+  [
+   "S01-U040",
+   "K4",
+   "我计划用GPT和Gemini。"
+  ],
+  [
+   "S01-U067",
+   "K4",
+   "由于我们只有本项目的内容可以分析，比较少"
+  ],
+  [
+   "S01-U087",
+   "K4",
+   "<home>\\Ph.D\\Thesis\\_tools\\Sivia"
+  ],
+  [
+   "S02-U001",
+   "K4",
+   "我导师给我发了这样一封邮件"
+  ],
+  [
+   "S02-U005",
+   "K1",
+   "这个网站403了"
+  ]
+ ],
+ "human|P": [
+  [
+   "S01-U014",
+   "P2",
+   "可能可以分为这三类：决策、知识、表达/设计。"
+  ],
+  [
+   "S01-U032",
+   "P4",
+   "而设计/表达或许可以调整为提案。"
+  ],
+  [
+   "S01-U070",
+   "P1",
+   "人和智能的认知贡献以及人智混合的认知贡献的存在性"
+  ]
+ ],
+ "human|D": [
+  [
+   "S01-U001",
+   "D1",
+   "我目标的投稿主题是人与智能协作研究过程中的认知贡献分布"
+  ],
+  [
+   "S01-U005",
+   "D1",
+   "只用本项目的协作数据"
+  ],
+  [
+   "S01-U014",
+   "D1",
+   "需要匿名化，提交脱敏版，最后开源也要脱敏"
+  ],
+  [
+   "S01-U017",
+   "D1",
+   "我说的就是认知的外显形式"
+  ],
+  [
+   "S01-U020",
+   "D1",
+   "需要尽量读原文"
+  ],
+  [
+   "S01-U032",
+   "D1",
+   "我们主要关注认知外显的表现。"
+  ],
+  [
+   "S01-U035",
+   "D1",
+   "我觉得编码单位可以限制在一轮，然后一轮内或许会混合多种"
+  ],
+  [
+   "S01-U040",
+   "D1",
+   "我说的一轮是指模型的一次response，派出子智能体当然算作一轮，甚至可能是多轮。"
+  ],
+  [
+   "S01-U045",
+   "D1",
+   "我觉得可以多报告几种一致性，kappa也可以汇报一下。阈值暂时先不考虑"
+  ],
+  [
+   "S01-U067",
+   "D1",
+   "接下来我们要考虑的是研究问题"
+  ],
+  [
+   "S01-U070",
+   "D1",
+   "我觉得这几点就够了，至于你说的方法本身的问题，可以放到讨论里面说"
+  ],
+  [
+   "S01-U073",
+   "D1",
+   "只要同一产出里面双方各有贡献就算"
+  ],
+  [
+   "S01-U076",
+   "D2",
+   "纠偏我认为不应该单独算，它会在下一轮中正常体现出来"
+  ],
+  [
+   "S01-U078",
+   "D2",
+   "1. 我觉得是可以的；\n2. 可以；\n3. 不用"
+  ],
+  [
+   "S01-U080",
+   "D2",
+   "可以"
+  ],
+  [
+   "S01-U087",
+   "D1",
+   "写作和绘图过程都要遵循人类风格约束，绘图可以用Sivia方法。"
+  ],
+  [
+   "S02-U001",
+   "D1",
+   "我想做一篇关于关于人与智能协作中的认知贡献分布的研究论文，你觉得如何"
+  ],
+  [
+   "S02-U003",
+   "D1",
+   "我现在只是确定这个主题"
+  ]
+ ],
+ "human|M": [
+  [
+   "S01-U001",
+   "M2",
+   "要全程记录协作过程，主要是对话sessions"
+  ],
+  [
+   "S01-U005",
+   "M2",
+   "所以要做成一个项目级必须遵循的技能"
+  ],
+  [
+   "S01-U014",
+   "M2",
+   "首先要建模好认知，尤其是认知的外显形式，之后才好对交互行为进行建模"
+  ],
+  [
+   "S01-U017",
+   "M2",
+   "你先调研一下相关的研究"
+  ],
+  [
+   "S01-U020",
+   "M2",
+   "需要尽量读原文，以更准确地构建框架"
+  ],
+  [
+   "S01-U032",
+   "M1",
+   "我觉得在这种情况下做一些调整也是有必要的。"
+  ],
+  [
+   "S01-U035",
+   "M2",
+   "我届时会引入两个新的模型来编码，你作为主要设计者，主要起统筹作用。"
+  ],
+  [
+   "S01-U043",
+   "M2",
+   "alpha这个值是做什么的"
+  ],
+  [
+   "S01-U045",
+   "M2",
+   "你其实可以直接派出opencode里面的子智能体来完成，指定模型分别是gpt-6.1-sol和Gemini4就行了"
+  ],
+  [
+   "S01-U064",
+   "M2",
+   "现在不急着写论文吧"
+  ],
+  [
+   "S01-U073",
+   "M2",
+   "我觉得你先抽几个例子我看看"
+  ],
+  [
+   "S01-U087",
+   "M2",
+   "可以直接进入全量编码了，然后进入质性分析并完成论文"
+  ],
+  [
+   "S02-U003",
+   "M2",
+   "开一个项目专门和Agent进行交互，然后逐渐确定选题、方案、标记编码方法等"
+  ],
+  [
+   "S02-U005",
+   "M1",
+   "这个网站403了，为什么呢"
+  ]
+ ],
+ "AI-primary|K": [
+  [
+   "S01-U004",
+   "K1",
+   "正文不超过 8 页（不含参考文献和附录），使用 ICIS 模板，通过 OpenReview 提交。"
+  ],
+  [
+   "S01-U010",
+   "K1",
+   "同步成功，两个 session 都已捕获。"
+  ],
+  [
+   "S01-U016",
+   "K2",
+   "我们观察不到认知，只能观察**外显的言语/行为产物**。"
+  ],
+  [
+   "S01-U019",
+   "K2",
+   "它描述的是**载体**，不是认知类型。"
+  ],
+  [
+   "S01-U022",
+   "K3",
+   "OpenAlex 能判断是否开放获取"
+  ],
+  [
+   "S01-U025",
+   "K4",
+   "Python 3.11 在本机存在（子智能体发现的），可用来提取压缩 PDF。"
+  ],
+  [
+   "S01-U031",
+   "K1",
+   "评价和选择只在 83 个实例中的 18 个里能分开。"
+  ],
+  [
+   "S01-U034",
+   "K1",
+   "In Mintzberg's data they could be separated in only 18 of 83 cases (S008)."
+  ],
+  [
+   "S01-U042",
+   "K1",
+   "全项目现在共 499 条 assistant 消息，其中 424 条（85%）只有工具调用、没有文字。"
+  ],
+  [
+   "S01-U044",
+   "K3",
+   "Krippendorff's alpha 是衡量多个编码者对同一批对象的判断是否一致的系数，并且已扣除\"碰巧一致\"的部分。"
+  ],
+  [
+   "S01-U047",
+   "K3",
+   "opencode run -m provider/model 可以指定模型。"
+  ],
+  [
+   "S01-U048",
+   "K1",
+   "模型可指定：GPT 用 github-copilot/gpt-6.1-sol，Gemini 只有 github-copilot/gemini-4-argon 一个对得上。"
+  ],
+  [
+   "S01-U050",
+   "K1",
+   "单位共 106 个。"
+  ],
+  [
+   "S01-U053",
+   "K1",
+   "Letter 页面，边距 1 英寸，正文 Georgia 10pt，两端对齐，作者匿名。"
+  ],
+  [
+   "S01-U066",
+   "K1",
+   "AI 单位里 77% 到 95% 都带 M，区分度很低。"
+  ],
+  [
+   "S01-U069",
+   "K3",
+   "Eisenhardt 说案例研究是从案例到理论，Lee 与 Baskerville 说推广对象是理论，不是总体。"
+  ],
+  [
+   "S01-U072",
+   "K1",
+   "人类的贡献：D、M 几乎每条都有，K 多是项目情境，P 极少。"
+  ],
+  [
+   "S01-U075",
+   "K1",
+   "13 条人类消息里没有一条是单纯的\"好的/确认\""
+  ],
+  [
+   "S01-U086",
+   "K1",
+   "出现的单位由 48/41 个降到 36/35 个"
+  ],
+  [
+   "S02-U002",
+   "K2",
+   "你的主题\"人智协作中的认知贡献分布\"本身就是这个反思的研究化版本。"
+  ],
+  [
+   "S02-U004",
+   "K3",
+   "如果在看到数据后才改编码手册，需要记录修订原因与版本，并说明是探索性的"
+  ],
+  [
+   "S02-U007",
+   "K1",
+   "我这边访问也是 403"
+  ],
+  [
+   "S03-U001",
+   "K4",
+   "We are building a theory-grounded coding scheme for \"cognitive contribution\" in human-AI research collaboration"
+  ],
+  [
+   "S04-U001",
+   "K4",
+   "The paper is self-referential (its own sessions are the data)."
+  ],
+  [
+   "S05-U001",
+   "K4",
+   "coded from chat/agent session transcripts, with human + LLM coders, in a self-referential single-project case (its own sessions)."
+  ],
+  [
+   "S08-U001",
+   "K4",
+   "Our ICIS paper is on the distribution of COGNITIVE contributions between human and AI in a whole research project, coded from interaction traces."
+  ],
+  [
+   "S09-U001",
+   "K4",
+   "We will code human and AI contributions in our own project sessions with a codebook, using human + LLM coders"
+  ],
+  [
+   "S12-U001",
+   "K3",
+   "this happens when a non-PDF (HTML block page, paywall, binary) gets attached as a PDF."
+  ]
+ ],
+ "AI-primary|P": [
+  [
+   "S01-U004",
+   "P2",
+   "是完整的实证稿，还是以框架加方法加单案例为主的概念稿。"
+  ],
+  [
+   "S01-U013",
+   "P1",
+   "认知贡献如何分布"
+  ],
+  [
+   "S01-U016",
+   "P4",
+   "保留三类直觉，改成\"两个正交维度\""
+  ],
+  [
+   "S01-U019",
+   "P2",
+   "我倾向以 Anderson 与 Krathwohl 的认知过程轴为主干，补上框定与元认知"
+  ],
+  [
+   "S01-U034",
+   "P4",
+   "I added an observable flag, `epistemic_transfer`."
+  ],
+  [
+   "S01-U039",
+   "P2",
+   "因为标签是集合，对每个\"行动者×类型是否在该轮出现\"分别算 Krippendorff's alpha，并附 bootstrap 置信区间。"
+  ],
+  [
+   "S01-U042",
+   "P2",
+   "AI 单位 = 一条有可见文字或派出子智能体的 assistant 消息，加上它之前、紧挨着的那些纯工具步骤"
+  ],
+  [
+   "S01-U044",
+   "P2",
+   "我的建议是 0.667，低于它的类别只报告\"不可靠\"，不做分布结论。"
+  ],
+  [
+   "S01-U066",
+   "P2",
+   "是否需要一个\"过程模型\"，比如 K 或 P 进入，D 提交，M 回环调控？"
+  ],
+  [
+   "S01-U069",
+   "P1",
+   "贡献如何在人与 AI 之间流动并转化为研究产出？"
+  ],
+  [
+   "S01-U072",
+   "P2",
+   "从相邻贡献构造转换序列，归纳出若干模式，再看哪些模式含混合贡献。"
+  ],
+  [
+   "S01-U075",
+   "P3",
+   "这是 `AI:P → human:M → AI:P` 的模式：人发现偏差并让 AI 修正。"
+  ],
+  [
+   "S01-U077",
+   "P2",
+   "存在的标准是两位编码者一致，且你复核示例。"
+  ],
+  [
+   "S02-U002",
+   "P1",
+   "在研究生命周期的各环节(提问、设计、分析、写作、评审、验证)中,认知劳动如何在人与 AI 之间分配?"
+  ],
+  [
+   "S02-U004",
+   "P2",
+   "02_decision_log.csv           # 人工决策日志"
+  ]
+ ],
+ "AI-primary|D": [
+  [
+   "S06-U001",
+   "D1",
+   "OUTPUT per source: write research/fulltext/<src_id>.md with: header lines `ACCESS: FULLTEXT_READ | PARTIAL | ABSTRACT_ONLY | NOT_ACCESSED`"
+  ],
+  [
+   "S07-U001",
+   "D1",
+   "OUTPUT per source: write research/fulltext/<src_id>.md with header `ACCESS: FULLTEXT_READ | PARTIAL | ABST"
+  ],
+  [
+   "S08-U001",
+   "D1",
+   "this is a near-neighbour: read it closely"
+  ],
+  [
+   "S09-U001",
+   "D1",
+   "OUTPUT per source: write research/fulltext/<src_id>.md with header `ACCESS: FULLTEXT_READ | PARTIAL | ABSTRACT_ONLY | NOT"
+  ],
+  [
+   "S10-U001",
+   "D1",
+   "OUTPUT per source file research/fulltext/<src_id>.md"
+  ],
+  [
+   "S11-U001",
+   "D1",
+   "exact CATEGORY LIST with the source's own definitions"
+  ]
+ ],
+ "AI-primary|M": [
+  [
+   "S01-U004",
+   "M2",
+   "先建立记录机制：目录结构，加上会话日志和人类干预日志的模板。"
+  ],
+  [
+   "S01-U008",
+   "M1",
+   "PATH 缺 System32"
+  ],
+  [
+   "S01-U009",
+   "M2",
+   "改为先写文件再按 UTF-8 读取。"
+  ],
+  [
+   "S01-U010",
+   "M1",
+   "同步成功，两个 session 都已捕获。"
+  ],
+  [
+   "S01-U012",
+   "M2",
+   "改用脚本文件执行。"
+  ],
+  [
+   "S01-U013",
+   "M1",
+   "记录机制已建好并验证通过。"
+  ],
+  [
+   "S01-U016",
+   "M3",
+   "具体引用我都没核实，不能直接用"
+  ],
+  [
+   "S01-U018",
+   "M2",
+   "Lit strand A: cognition forms | Lit strand B: human-AI contribution | Lit strand C: coding methods"
+  ],
+  [
+   "S01-U019",
+   "M3",
+   "其余的内容说明来自模型记忆，**在读过原文前，不能进入稿件**。"
+  ],
+  [
+   "S01-U022",
+   "M2",
+   "先用它分流：能合法取到全文的精读，取不到的明确标注。"
+  ],
+  [
+   "S01-U023",
+   "M1",
+   "两个子智能体因 PDF 读取报错失败（G2、G4）"
+  ],
+  [
+   "S01-U027",
+   "M2",
+   "取不到的不再猜链接。先抽查已读笔记的质量（防止子智能体写出记忆内容）。"
+  ],
+  [
+   "S01-U028",
+   "M1",
+   "笔记质量可靠，并且诚实标注了未读部分。"
+  ],
+  [
+   "S01-U029",
+   "M1",
+   "必须抽查真实性。"
+  ],
+  [
+   "S01-U030",
+   "M1",
+   "抽查属实：数字、局限和适用建议都具体且有出处，并非凭记忆编造。"
+  ],
+  [
+   "S01-U031",
+   "M3",
+   "其余笔记是子智能体写的，我没有逐篇复核"
+  ],
+  [
+   "S01-U034",
+   "M3",
+   "It is not tested yet, and nobody has coded with it."
+  ],
+  [
+   "S01-U039",
+   "M2",
+   "对现有 6 轮做一次 dry run，只检验\"一轮\"这个单位定义能不能用"
+  ],
+  [
+   "S01-U042",
+   "M1",
+   "全项目现在共 499 条 assistant 消息，其中 424 条（85%）只有工具调用、没有文字。"
+  ],
+  [
+   "S01-U044",
+   "M3",
+   "但我没在读过的原文里找到出处，所以我在文档里标明它是设计选择。"
+  ],
+  [
+   "S01-U047",
+   "M1",
+   "opencode run -m provider/model 可以指定模型。"
+  ],
+  [
+   "S01-U048",
+   "M1",
+   "模型可指定：GPT 用 github-copilot/gpt-6.1-sol，Gemini 只有 github-copilot/gemini-4-argon 一个对得上。"
+  ],
+  [
+   "S01-U053",
+   "M1",
+   "模板规格已确认"
+  ],
+  [
+   "S01-U056",
+   "M3",
+   "每块约 2 分钟，预计十几分钟跑完。"
+  ],
+  [
+   "S01-U062",
+   "M1",
+   "引用的 arXiv 作者已核实。"
+  ],
+  [
+   "S01-U065",
+   "M1",
+   "我把\"派出编码者\"之后的\"写完整的\"理解成了写论文，抢跑了。"
+  ],
+  [
+   "S01-U066",
+   "M1",
+   "目前只有\"类型表加编码规则\"，缺上层的论证链"
+  ],
+  [
+   "S01-U072",
+   "M3",
+   "仅作线索，需读片段验证"
+  ],
+  [
+   "S01-U075",
+   "M1",
+   "我的筛选条件太粗糙"
+  ],
+  [
+   "S01-U077",
+   "M2",
+   "我建议立即定为 v1.1 并重新编码一遍，以便比较 v1.0 与 v1.1 的差异"
+  ],
+  [
+   "S01-U079",
+   "M2",
+   "用同样的两位编码者（GPT-6.1-sol 和 Gemini-4-argon）按 v1.1 重编码现有单位。"
+  ],
+  [
+   "S01-U085",
+   "M1",
+   "My earlier string patch mangled the file."
+  ],
+  [
+   "S01-U086",
+   "M1",
+   "主体 AI 的 M 与 X 之间仍有 11 个单位的分歧（主标签上）。"
+  ],
+  [
+   "S02-U002",
+   "M1",
+   "\"认知贡献分布\"如果没有操作化定义,容易变成泛泛而谈。"
+  ],
+  [
+   "S02-U004",
+   "M2",
+   "建议在项目一开始就固定记录机制"
+  ],
+  [
+   "S02-U007",
+   "M1",
+   "我这边访问也是 403,所以问题不只在你的网络。"
+  ],
+  [
+   "S03-U001",
+   "M2",
+   "Do not assume it is right; find what the literature says."
+  ],
+  [
+   "S04-U001",
+   "M2",
+   "You do research only; respond in English."
+  ],
+  [
+   "S05-U001",
+   "M2",
+   "Do NOT run sync scripts (the parent does that). You do research only; respond in English."
+  ],
+  [
+   "S06-U001",
+   "M2",
+   "Your job: for each source below, locate and READ the original text (full text if legally accessible), then write a notes file."
+  ]
+ ],
+ "AI-primary|X": [
+  [
+   "S01-U002",
+   "",
+   "我先查一下 ICIS PDW 的征稿要求。"
+  ],
+  [
+   "S01-U003",
+   "",
+   "工作区里已有 CFP 文件，我来读。"
+  ],
+  [
+   "S01-U006",
+   "",
+   "先看工作区现状，并找本 session 的原始数据存放位置。"
+  ],
+  [
+   "S01-U007",
+   "",
+   "Now the log templates, environment record, project rules and the skill."
+  ],
+  [
+   "S01-U011",
+   "",
+   "Now I'll append corrected log rows and set the session roles"
+  ],
+  [
+   "S01-U015",
+   "",
+   "先同步并记录这轮的干预。"
+  ],
+  [
+   "S01-U021",
+   "",
+   "先记录这条指令，再测试能取到哪些全文。"
+  ],
+  [
+   "S01-U026",
+   "",
+   "Garrison 原文读通了。写入笔记，并再试几篇关键的。"
+  ],
+  [
+   "S01-U033",
+   "",
+   "先记录你的这轮指令，再把框架和编码标准写成文件。"
+  ],
+  [
+   "S01-U036",
+   "",
+   "先记录这轮决策，再把框架升级到 v0.2。"
+  ],
+  [
+   "S01-U037",
+   "",
+   "Now the v0.2 edits (v0.1 stays untouched as the record)."
+  ],
+  [
+   "S01-U038",
+   "",
+   "Replace sections 4–8 wholesale to reflect the round-based, multi-label, multi-coder design."
+  ],
+  [
+   "S01-U041",
+   "",
+   "先记录你对\"一轮\"的澄清，再用现有数据做 dry run"
+  ],
+  [
+   "S01-U046",
+   "",
+   "先记录这轮决策，修订 codebook 并冻结，再查能否真的指定 GPT 和 Gemini 模型。"
+  ],
+  [
+   "S01-U049",
+   "",
+   "v1.0 已冻结。现在写编码包生成脚本：切单位、去掉模型名、截断超长文本。"
+  ],
+  [
+   "S01-U051",
+   "",
+   "Launch both coders in parallel, each in its own neutral directory, with the specified model."
+  ],
+  [
+   "S01-U052",
+   "",
+   "While the coders run, I'll log this and start the paper. First check the template."
+  ],
+  [
+   "S01-U054",
+   "",
+   "等待期间，先写一致性分析脚本"
+  ],
+  [
+   "S01-U059",
+   "",
+   "Run the agreement analysis and sync (coder sessions get captured)."
+  ],
+  [
+   "S01-U060",
+   "",
+   "在写论文前先做出结果表和一张图，并核对 AI 提案到人类采纳的链路。"
+  ],
+  [
+   "S01-U061",
+   "",
+   "核对 arXiv 与书籍的题录，用于参考文献。"
+  ],
+  [
+   "S01-U063",
+   "",
+   "现在写论文生成脚本（数字自动取自分析输出，避免手抄错误）。"
+  ],
+  [
+   "S01-U068",
+   "",
+   "先记录这条决策。"
+  ],
+  [
+   "S01-U071",
+   "",
+   "先记录这轮决策。"
+  ],
+  [
+   "S01-U074",
+   "",
+   "先记录你的裁定，再从现有编码里抽示例。"
+  ],
+  [
+   "S01-U081",
+   "",
+   "我先冻结 v1.1：复制 v1.0，套用 C1 到 C7，v1.0 原文保持不动。"
+  ],
+  [
+   "S01-U082",
+   "",
+   "Now log the freeze, prepare v1.1 coder dirs, and relaunch both coders."
+  ],
+  [
+   "S01-U083",
+   "",
+   "编码在后台跑（约 20 分钟）。期间修正分析脚本：同会话配对，并支持按版本读取结果。"
+  ],
+  [
+   "S01-U084",
+   "",
+   "两个编码者都已完成。跑 v1.1 一致性，并与 v1.0 对比，同时同步会话。"
+  ],
+  [
+   "S01-U088",
+   "",
+   "先记录这条指令，再读人类风格写作技能和 Sivia 方法目录。"
+  ],
+  [
+   "S01-U089",
+   "",
+   "先记录这条指令，并核对当前语料。Sivia 的设计规范与审阅流程我会用于绘图。"
+  ],
+  [
+   "S02-U006",
+   "",
+   "我先试着访问一下,看看具体返回什么。"
+  ]
+ ],
+ "AI-subagent|K": [
+  [
+   "S03-U003",
+   "K1",
+   "Krathwohl 2002, A Revision of Bloom's Taxonomy: An Overview"
+  ],
+  [
+   "S04-U008",
+   "K1",
+   "I verified 32 sources, all by bibliographic match only."
+  ],
+  [
+   "S05-U003",
+   "K1",
+   "Note: \"Amershi\" (not Amershal)."
+  ],
+  [
+   "S05-U006",
+   "K2",
+   "Passive, active, constructive and interactive modes, coded from observable behaviour."
+  ],
+  [
+   "S06-U005",
+   "K2",
+   "It is a two-dimensional table, not one ladder. The hierarchy is explicitly relaxed (p. 215)."
+  ],
+  [
+   "S08-U003",
+   "K1",
+   "106 experiments, 370 effect sizes. Combination is worse than the best of human or AI (g = -0.23)."
+  ],
+  [
+   "S10-U003",
+   "K1",
+   "The original `athabascau.ca` URL now returns 404, but a Wayback copy exists"
+  ],
+  [
+   "S11-U004",
+   "K2",
+   "It codes who holds initiative, not content quality."
+  ],
+  [
+   "S12-U015",
+   "K1",
+   "S069 uses kappa"
+  ],
+  [
+   "S12-U016",
+   "K1",
+   "Cohen's kappa 0.16–0.31 in phase 1, rising to 0.51–0.65 in phase 3."
+  ]
+ ],
+ "AI-subagent|P": [
+  [
+   "S12-U016",
+   "P2",
+   "Treat our case as having embedded mini-cases"
+  ]
+ ],
+ "AI-subagent|M": [
+  [
+   "S03-U003",
+   "M3",
+   "So every \"contribution\" below is from memory, and the content claims are not yet checked against the texts."
+  ],
+  [
+   "S04-U008",
+   "M3",
+   "Other limits: of the 32, I read abstracts only for the 8 arXiv items."
+  ],
+  [
+   "S05-U003",
+   "M1",
+   "Note: \"Amershi\" (not Amershal)."
+  ],
+  [
+   "S05-U006",
+   "M3",
+   "The note on content is from my own knowledge and must be re-read before it enters the manuscript."
+  ],
+  [
+   "S06-U005",
+   "M3",
+   "Nine sources were read in full text. S012 and S025 are abstract-only because the full-text PDFs were blocked."
+  ],
+  [
+   "S08-U003",
+   "M3",
+   "Only S049 (Handa) was read as full text, and only for its main text."
+  ],
+  [
+   "S10-U003",
+   "M3",
+   "I could not read the text of any of the six sources"
+  ],
+  [
+   "S11-U004",
+   "M3",
+   "Sec. 3.2, 3.3 and 4 were not read, only their headings."
+  ],
+  [
+   "S12-U016",
+   "M3",
+   "The quadrants and the schema's section list were NOT read."
+  ]
+ ],
+ "AI-subagent|X": [
+  [
+   "S04-U003",
+   "",
+   "Try arXiv for the arXiv-resident ones meanwhile."
+  ],
+  [
+   "S04-U004",
+   "",
+   "Next: Horvitz, Hemmer, Lu Ge/Mollick etc."
+  ],
+  [
+   "S04-U005",
+   "",
+   "Now Semantic Scholar for the gap search."
+  ],
+  [
+   "S04-U006",
+   "",
+   "Use arXiv for gap searches."
+  ],
+  [
+   "S04-U007",
+   "",
+   "Now CRediT / ICMJE / co-writing / Anthropic."
+  ],
+  [
+   "S05-U004",
+   "",
+   "Try Gero & Kannengiesser FBS."
+  ],
+  [
+   "S05-U005",
+   "",
+   "Fine; just proceed sequentially."
+  ],
+  [
+   "S06-U004",
+   "",
+   "Write S013."
+  ],
+  [
+   "S10-U002",
+   "",
+   "Try author-hosted copies."
+  ],
+  [
+   "S11-U002",
+   "",
+   "Start with OpenAlex lookups."
+  ],
+  [
+   "S12-U002",
+   "",
+   "Try common open copies."
+  ],
+  [
+   "S12-U005",
+   "",
+   "Text extracted. Read the guidelines section."
+  ],
+  [
+   "S12-U007",
+   "",
+   "Read via the Read tool on file with offsets (it's UTF-8 text)."
+  ],
+  [
+   "S12-U008",
+   "",
+   "Try Wayback of the RG PDF, plus academia/scribd attempts via fx.py."
+  ],
+  [
+   "S12-U009",
+   "",
+   "CiteSeerX copy + original CDC URL. Try them."
+  ],
+  [
+   "S12-U010",
+   "",
+   "CoAIcoder via arXiv (preprint of the paper). Fetch."
+  ],
+  [
+   "S12-U014",
+   "",
+   "Write S074, S069, S076, Ellis, S061 update."
+  ]
+ ]
+}

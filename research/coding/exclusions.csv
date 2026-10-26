@@ -1,0 +1,23 @@
+unit_id,rule,note
+S01-U151,R1 empty user message,2026-10-21 21:28
+S01-U152,R3 context-compaction summary,2026-10-21 21:28
+S01-U153,R4 replay of the previous human message after compaction,2026-10-21 21:29
+S01-U178,R1 empty user message,2026-10-26 12:25
+S01-U179,R3 context-compaction summary,2026-10-26 12:25
+S01-U180,R4 replay of the previous human message after compaction,2026-10-26 12:26
+S01-U186,R0 after cutoff,the human message that requested the recode and everything after it
+S01-U187,R0 after cutoff,the human message that requested the recode and everything after it
+S13-U003,R1 empty user message,2026-10-22 14:04
+S13-U005,R2 harness continuation prompt,2026-10-22 14:06
+S13-U011,R1 empty user message,2026-10-22 14:16
+S13-U013,R2 harness continuation prompt,2026-10-22 14:17
+S13-U015,R1 empty user message,2026-10-22 14:29
+S13-U017,R2 harness continuation prompt,2026-10-22 14:31
+S13-U019,R1 empty user message,2026-10-22 14:39
+S13-U021,R2 harness continuation prompt,2026-10-22 14:40
+S13-U022,R1 empty user message,2026-10-22 14:54
+S13-U024,R2 harness continuation prompt,2026-10-22 14:55
+S13-U028,R1 empty user message,2026-10-22 15:10
+S13-U030,R2 harness continuation prompt,2026-10-22 15:13
+S13-U034,R1 empty user message,2026-10-22 15:29
+S13-U036,R2 harness continuation prompt,2026-10-22 15:30

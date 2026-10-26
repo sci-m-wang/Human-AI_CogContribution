@@ -1,0 +1,527 @@
+[
+ {
+  "id": "http://arxiv.org/abs/2609.33754v2",
+  "title": "Collaborative Synthetic Data for Privacy-Preserving Financial Fraud Detection Across Organizational Silos",
+  "pub": "2026-09-27",
+  "comment": "Accepted for publication at the International Conference on Information Systems (ICIS) 2026",
+  "cat": "cs.LG"
+ },
+ {
+  "id": "http://arxiv.org/abs/2607.06296v1",
+  "title": "Designing Maintainable Hybrid Generative Systems: A Quantum-Inspired Approach to Automated Music Harmony Generation",
+  "pub": "2026-07-07",
+  "comment": "12 pages, 1 figure, 4 tables. Extended version of the 4-page paper accepted at the 34th International Conference on Information Systems Development (ISD2026, Pr",
+  "cat": "cs.SD"
+ },
+ {
+  "id": "http://arxiv.org/abs/2606.17839v1",
+  "title": "From Ad Hoc Pilots to Repeatable Patterns: Structuring Drone Collaboration in Emergency Services with DroneLets",
+  "pub": "2026-06-16",
+  "comment": "Presented at International Conference on Information Systems (ICIS) 2025: https://aisel.aisnet.org/icis2025/is_transformwork/is_transformwork/19/",
+  "cat": "cs.RO"
+ },
+ {
+  "id": "http://arxiv.org/abs/2606.17831v1",
+  "title": "Accountability in Autonomous Drone-Based Firefighting: Insights From a Field Trial",
+  "pub": "2026-06-16",
+  "comment": "Accepted for Publication at International Conference on Information Systems (ICIS) 2025: https://aisel.aisnet.org/icis2025/ethical_is/ethical_is/10/",
+  "cat": "cs.RO"
+ },
+ {
+  "id": "http://arxiv.org/abs/2604.19137v1",
+  "title": "Construction of Knowledge Graph based on Language Model",
+  "pub": "2026-04-21",
+  "comment": "10 pages,3 figures To be published in the proceedings of 2025 13th The International Conference on Information Systems and Computing Technology (ISCTech 2025)",
+  "cat": "cs.CL"
+ },
+ {
+  "id": "http://arxiv.org/abs/2602.23874v1",
+  "title": "Exploring Robust Intrusion Detection: A Benchmark Study of Feature Transferability in IoT Botnet Attack Detection",
+  "pub": "2026-02-27",
+  "comment": "Accepted for publication in the Proceedings of the 2026 International Conference on Information Systems Security and Privacy (ICISSP)",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/2602.23846v1",
+  "title": "MI$^2$DAS: A Multi-Layer Intrusion Detection Framework with Incremental Learning for Securing Industrial IoT Networks",
+  "pub": "2026-02-27",
+  "comment": "Accepted for publication in the Proceedings of the 2026 International Conference on Information Systems Security and Privacy (ICISSP)",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/2602.23834v1",
+  "title": "Enhancing Continual Learning for Software Vulnerability Prediction: Addressing Catastrophic Forgetting via Hybrid-Confidence-Aware Selective Replay for Temporal LLM Fine-Tuning",
+  "pub": "2026-02-27",
+  "comment": "Accepted for publication in the Proceedings of the 2026 International Conference on Information Systems Security and Privacy (ICISSP)",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/2602.11707v1",
+  "title": "Digital Ecosystems: Enabling Collaboration in a Fragmented World",
+  "pub": "2026-02-12",
+  "comment": "Accepted at ICIS 2025 (Nashville)",
+  "cat": "cs.CY"
+ },
+ {
+  "id": "http://arxiv.org/abs/2601.07634v1",
+  "title": "Simple Power Analysis of Polynomial Multiplication in HQC",
+  "pub": "2026-01-12",
+  "comment": "Submitted to ICISSP 2026, 12th International Conference on Information Systems Security and Privacy",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/2510.08104v1",
+  "title": "Development of Mental Models in Human-AI Collaboration: A Conceptual Framework",
+  "pub": "2025-10-09",
+  "comment": "Preprint version. Accepted for presentation at the International Conference on Information Systems (ICIS 2025). Please cite the published version when available",
+  "cat": "cs.HC"
+ },
+ {
+  "id": "http://arxiv.org/abs/2510.04118v1",
+  "title": "Cyber Warfare During Operation Sindoor: Malware Campaign Analysis and Detection Framework",
+  "pub": "2025-10-05",
+  "comment": "Accepted for presentation at the 21st International Conference on Information Systems Security (ICISS 2025)",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/2510.00555v1",
+  "title": "PromptPilot: Improving Human-AI Collaboration Through LLM-Enhanced Prompt Engineering",
+  "pub": "2025-10-01",
+  "comment": "Preprint version. Accepted for presentation at the International Conference on Information Systems (ICIS 2025). Please cite the published version when available",
+  "cat": "cs.HC"
+ },
+ {
+  "id": "http://arxiv.org/abs/2510.00552v1",
+  "title": "Data Quality Challenges in Retrieval-Augmented Generation",
+  "pub": "2025-10-01",
+  "comment": "Preprint version. Accepted for presentation at the International Conference on Information Systems (ICIS 2025). Please cite the published version when available",
+  "cat": "cs.AI"
+ },
+ {
+  "id": "http://arxiv.org/abs/2509.03673v1",
+  "title": "A Machine Learning-Based Study on the Synergistic Optimization of Supply Chain Management and Financial Supply Chains from an Economic Perspective",
+  "pub": "2025-09-03",
+  "comment": "Accepted by the 2025 IEEE 8th International Conference on Information Systems and Computer Aided Education (ICISCAE 2025)",
+  "cat": "cs.LG"
+ },
+ {
+  "id": "http://arxiv.org/abs/2508.16811v1",
+  "title": "Exploring the Impact of Generative Artificial Intelligence on Software Development in the IT Sector: Preliminary Findings on Productivity, Efficiency and Job Security",
+  "pub": "2025-08-22",
+  "comment": "This is a preprint of a paper accepted for publication and presentation at the 33rd International Conference on Information Systems Development (ISD 2025)",
+  "cat": "econ.GN"
+ },
+ {
+  "id": "http://arxiv.org/abs/2508.16254v1",
+  "title": "FEST: A Unified Framework for Evaluating Synthetic Tabular Data",
+  "pub": "2025-08-22",
+  "comment": "11 pages, International Conference on Information Systems Security and Privacy",
+  "cat": "cs.LG"
+ },
+ {
+  "id": "http://arxiv.org/abs/2506.07882v1",
+  "title": "Evaluating explainable AI for deep learning-based network intrusion detection system alert classification",
+  "pub": "2025-06-09",
+  "comment": "Accepted version of a paper published in the Proceedings of the 11th International Conference on Information Systems Security and Privacy (ICISSP 2025). Final v",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/2504.13858v1",
+  "title": "The Effect of Explainable AI-based Decision Support on Human Task Performance: A Meta-Analysis",
+  "pub": "2025-03-22",
+  "comment": "Published in the Proceedings of the Twenty-Third Annual Pre-ICIS Workshop on HCI Research in MIS, Bangkok, Thailand, December 15th, 2024",
+  "cat": "cs.HC"
+ },
+ {
+  "id": "http://arxiv.org/abs/2503.04274v1",
+  "title": "Got Ya! -- Sensors for Identity Management Specific Security Situational Awareness",
+  "pub": "2025-03-06",
+  "comment": "In Proceedings of the 11th International Conference on Information Systems Security and Privacy (ICISSP 2025) - Volume 1, pages 141-148",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/2503.04259v1",
+  "title": "Qualitative In-Depth Analysis of GDPR Data Subject Access Requests and Responses from Major Online Services",
+  "pub": "2025-03-06",
+  "comment": "In Proceedings of the 11th International Conference on Information Systems Security and Privacy (ICISSP 2025) - Volume 1, pages 149-156",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/2503.01592v1",
+  "title": "An Efficient Approach to Detecting Lung Nodules Using Swin Transformer",
+  "pub": "2025-03-03",
+  "comment": "19th Iranian Conference on Intelligent Systems (ICIS), IEEE, 2024",
+  "cat": "eess.IV"
+ },
+ {
+  "id": "http://arxiv.org/abs/2412.13528v1",
+  "title": "ScamGPT-J: Inside the Scammer's Mind, A Generative AI-Based Approach Toward Combating Messaging Scams",
+  "pub": "2024-12-18",
+  "comment": "International Conference on Information Systems 2024",
+  "cat": "cs.HC"
+ },
+ {
+  "id": "http://arxiv.org/abs/2411.03224v1",
+  "title": "Interpretable Predictive Models for Healthcare via Rational Logistic Regression",
+  "pub": "2024-11-05",
+  "comment": "ICIS 2021 Proceedings ( see https://aisel.aisnet.org/icis2021/is_health/is_health/18 )",
+  "cat": "cs.LG"
+ },
+ {
+  "id": "http://arxiv.org/abs/2409.00480v2",
+  "title": "Advancing Financial Forecasting: A Comparative Analysis of Neural Forecasting Models N-HiTS and N-BEATS",
+  "pub": "2024-08-31",
+  "comment": "This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this contribution will be published in ",
+  "cat": "q-fin.CP"
+ },
+ {
+  "id": "http://arxiv.org/abs/2408.04317v1",
+  "title": "Project Archetypes: A Blessing and a Curse for AI Development",
+  "pub": "2024-08-08",
+  "comment": "Presented at International Conference on Information Systems, ICIS, in Copenhagen, 2022",
+  "cat": "cs.SE"
+ },
+ {
+  "id": "http://arxiv.org/abs/2407.16251v1",
+  "title": "Systematically Searching for Identity-Related Information in the Internet with OSINT Tools",
+  "pub": "2024-07-23",
+  "comment": "Proceedings of the 9th International Conference on Information Systems Security and Privacy - Volume 1: ICISSP",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/2407.16247v1",
+  "title": "Evaluation Scheme to Analyze Keystroke Dynamics Methods",
+  "pub": "2024-07-23",
+  "comment": "Proceedings of the 9th International Conference on Information Systems Security and Privacy - Volume 1: ICISSP",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/2407.16238v1",
+  "title": "How to Design a Blue Team Scenario for Beginners on the Example of Brute-Force Attacks on Authentications",
+  "pub": "2024-07-23",
+  "comment": "Proceedings of the 9th International Conference on Information Systems Security and Privacy - Volume 1: ICISSP",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/2407.00702v1",
+  "title": "Scaling Technology Acceptance Analysis with Large Language Model (LLM) Annotation Systems",
+  "pub": "2024-06-30",
+  "comment": "This is a preprint of a paper accepted for the 32nd International Conference on Information Systems Development (ISD 2024), Gdansk, Poland",
+  "cat": "cs.CL"
+ },
+ {
+  "id": "http://arxiv.org/abs/2405.13568v1",
+  "title": "CPE-Identifier: Automated CPE identification and CVE summaries annotation with Deep Learning and NLP",
+  "pub": "2024-05-22",
+  "comment": "International Conference on Information Systems Security and Privacy 2024",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/2405.01881v3",
+  "title": "Explainable Risk Classification in Financial Reports",
+  "pub": "2024-05-03",
+  "comment": "ICIS 2023 Proceedings. 3. https://aisel.aisnet.org/icis2023/blockchain/blockchain/3",
+  "cat": "q-fin.RM"
+ },
+ {
+  "id": "http://arxiv.org/abs/2312.15215v1",
+  "title": "Conceptualising an Anti-Digital Forensics Kill Chain for Smart Homes",
+  "pub": "2023-12-23",
+  "comment": "Accepted in 10th International Conference on Information Systems Security and Privacy (ICISSP 2024)",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/2310.02568v1",
+  "title": "Stand for Something or Fall for Everything: Predict Misinformation Spread with Stance-Aware Graph Neural Networks",
+  "pub": "2023-10-04",
+  "comment": "Accepted by the 2023 International Conference on Information Systems (ICIS 2023)",
+  "cat": "cs.SI"
+ },
+ {
+  "id": "http://arxiv.org/abs/2302.13567v1",
+  "title": "Towards Audit Requirements for AI-based Systems in Mobility Applications",
+  "pub": "2023-02-27",
+  "comment": "To appear in Proceedings of the 9th International Conference on Information Systems Security and Privacy",
+  "cat": "cs.LG"
+ },
+ {
+  "id": "http://arxiv.org/abs/2301.01568v1",
+  "title": "Identifying Personal Data Processing for Code Review",
+  "pub": "2023-01-04",
+  "comment": "Accepted by The 9th International Conference on Information Systems Security and Privacy (ICISSP 2023)",
+  "cat": "cs.SE"
+ },
+ {
+  "id": "http://arxiv.org/abs/2301.10006v1",
+  "title": "The Competitive Leverage Paradox Effect on Information Systems Life Cycle",
+  "pub": "2023-01-03",
+  "comment": "13 pages, 7 figures, 2021 Pre-ICIS SIGDSA Symposium on Analytics and AI for Sustainable Future",
+  "cat": "cs.CY"
+ },
+ {
+  "id": "http://arxiv.org/abs/2211.05364v2",
+  "title": "Efficient Unsupervised Video Object Segmentation Network Based on Motion Guidance",
+  "pub": "2022-11-10",
+  "comment": "The 10th International Conference on Information Systems and Computing Technology",
+  "cat": "cs.CV"
+ },
+ {
+  "id": "http://arxiv.org/abs/2211.04083v1",
+  "title": "First Beam Characterization by Means of Emission Spectroscopy in the NIO1 Experiment",
+  "pub": "2022-11-08",
+  "comment": "3 pages, 2 figures. Contributed paper for the ICIS 2017 conference. Accepted manuscript of a published paper",
+  "cat": "physics.plasm-ph"
+ },
+ {
+  "id": "http://arxiv.org/abs/2211.03360v1",
+  "title": "First hydrogen operation of NIO1: characterization of the source plasma by means of an optical emission spectroscopy diagnostic",
+  "pub": "2022-11-07",
+  "comment": "3 pages, 2 figures. Contributed paper for the ICIS 2015 conference. Accepted manuscript",
+  "cat": "physics.plasm-ph"
+ },
+ {
+  "id": "http://arxiv.org/abs/2211.03573v1",
+  "title": "Modeling and design of a BES diagnostic for the negative ion source NIO1",
+  "pub": "2022-11-03",
+  "comment": "3 pages, 3 figures. Contributed paper for the ICIS 2013 conference. Accepted manuscript",
+  "cat": "physics.plasm-ph"
+ },
+ {
+  "id": "http://arxiv.org/abs/2210.02123v1",
+  "title": "On the Influence of Cognitive Styles on Users' Understanding of Explanations",
+  "pub": "2022-10-05",
+  "comment": "Accepted at 43rd International Conference on Information Systems (ICIS 2022)",
+  "cat": "cs.HC"
+ },
+ {
+  "id": "http://arxiv.org/abs/2208.04057v1",
+  "title": "Relevance Judgment Convergence Degree -- A Measure of Inconsistency among Assessors for Information Retrieval",
+  "pub": "2022-08-08",
+  "comment": "To appear on 30th International Conference on Information Systems Development (ISD2022)",
+  "cat": "cs.IR"
+ },
+ {
+  "id": "http://arxiv.org/abs/2202.06995v1",
+  "title": "Intent-Aware Permission Architecture: A Model for Rethinking Informed Consent for Android Apps",
+  "pub": "2022-02-14",
+  "comment": "11 pages, 5 Figures,The International Conference on Information Systems Security and Privacy-ICISSP 2022",
+  "cat": "cs.CY"
+ },
+ {
+  "id": "http://arxiv.org/abs/2201.05945v1",
+  "title": "Explaining Cognitive Computing Through the Information Systems Lens",
+  "pub": "2022-01-16",
+  "comment": "Forty-First International Conference on Information Systems, India 2020",
+  "cat": "cs.HC"
+ },
+ {
+  "id": "http://arxiv.org/abs/2110.08015v1",
+  "title": "Crisis Domain Adaptation Using Sequence-to-sequence Transformers",
+  "pub": "2021-10-15",
+  "comment": "18th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2021)",
+  "cat": "cs.CL"
+ },
+ {
+  "id": "http://arxiv.org/abs/2110.08010v1",
+  "title": "Transformer-based Multi-task Learning for Disaster Tweet Categorisation",
+  "pub": "2021-10-15",
+  "comment": "18th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2021)",
+  "cat": "cs.CL"
+ },
+ {
+  "id": "http://arxiv.org/abs/2109.15067v1",
+  "title": "Critical Empirical Study on Black-box Explanations in AI",
+  "pub": "2021-09-29",
+  "comment": "International Conference on Information Systems 2021, Dec 2021, JW Marriott Austin, United States. arXiv admin note: text overlap with arXiv:2109.09586",
+  "cat": "cs.HC"
+ },
+ {
+  "id": "http://arxiv.org/abs/2108.04766v2",
+  "title": "Falling for Phishing: An Empirical Investigation into People's Email Response Behaviors",
+  "pub": "2021-08-10",
+  "comment": "The 42nd International Conference on Information Systems (ICIS'21), Austin, Texas, USA, 2021, 17",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/2103.04330v1",
+  "title": "An Overview of Cryptographic Accumulators",
+  "pub": "2021-03-07",
+  "comment": "Note: This is an extended version of a paper published In Proceedings of the 7th International Conference on Information Systems Security and Privacy (ICISSP 20",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/2008.11026v1",
+  "title": "On Course, But Not There Yet: Enterprise Architecture Conformance and Benefits in Systems Development",
+  "pub": "2020-08-23",
+  "comment": "19 pages (excluding cover pages), 2 figures, 11 tables. Proceedings of the Thirty First International Conference on Information Systems (ICIS 2010), St. Louis, ",
+  "cat": "cs.CY"
+ },
+ {
+  "id": "http://arxiv.org/abs/2002.08777v1",
+  "title": "Do you comply with AI? -- Personalized explanations of learning algorithms and their impact on employees' compliance behavior",
+  "pub": "2020-02-20",
+  "comment": "Fortieth International Conference on Information Systems (ICIS) 2019, Munich, Germany. All Authors contributed equally in shared first authorship",
+  "cat": "cs.CY"
+ },
+ {
+  "id": "http://arxiv.org/abs/2001.10994v1",
+  "title": "Credit Scoring for Good: Enhancing Financial Inclusion with Smartphone-Based Microlending",
+  "pub": "2020-01-29",
+  "comment": "Thirty Ninth International Conference on Information Systems (ICIS), December 14, 2018, San Francisco, USA",
+  "cat": "cs.SI"
+ },
+ {
+  "id": "http://arxiv.org/abs/1911.08225v1",
+  "title": "Multimedia Search and Temporal Reasoning",
+  "pub": "2019-11-19",
+  "comment": "International Conference on Information Systems (ICIS) 2019",
+  "cat": "cs.AI"
+ },
+ {
+  "id": "http://arxiv.org/abs/1908.07416v1",
+  "title": "Skeleton-based Gait Index Estimation with LSTMs",
+  "pub": "2019-08-17",
+  "comment": "2018 IEEE/ACIS 17th International Conference on Computer and Information Science (ICIS)",
+  "cat": "cs.CV"
+ },
+ {
+  "id": "http://arxiv.org/abs/1903.11551v1",
+  "title": "Transfer Learning for Image-Based Malware Classification",
+  "pub": "2019-01-21",
+  "comment": "3rd International Workshop on Formal Methods for Security Engineering (ForSE 2019), in conjunction with the 5th International Conference on Information Systems ",
+  "cat": "cs.LG"
+ },
+ {
+  "id": "http://arxiv.org/abs/1904.00735v1",
+  "title": "A Comparative Analysis of Android Malware",
+  "pub": "2019-01-21",
+  "comment": "3rd International Workshop on Formal Methods for Security Engineering (ForSE 2019), in conjunction with the 5th International Conference on Information Systems ",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/1901.02146v2",
+  "title": "Measuring the Correlation of Personal Identity Documents in Structured Format",
+  "pub": "2019-01-08",
+  "comment": "17th IEEE/ACIS International Conference on Computer and Information Science (ICIS 2018)",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/1811.08227v1",
+  "title": "Analytic Network Learning",
+  "pub": "2018-11-20",
+  "comment": "Some of the preliminary ideas of this work has been presented in the IEEE/ACIS 17th International Conference on Computer and Information Science: \"Learning from",
+  "cat": "cs.LG"
+ },
+ {
+  "id": "http://arxiv.org/abs/1810.11581v1",
+  "title": "Gradient-Free Learning Based on the Kernel and the Range Space",
+  "pub": "2018-10-27",
+  "comment": "The idea of kernel and range projection was first introduced in the IEEE/ACIS ICIS conference which was held in Singapore in June 2018. This article presents a ",
+  "cat": "cs.LG"
+ },
+ {
+  "id": "http://arxiv.org/abs/1810.09071v1",
+  "title": "Learning from the Kernel and the Range Space",
+  "pub": "2018-10-22",
+  "comment": "Camera-ready finalized on 22 April 2018, paper presented on 07 June 2018 in the 17th IEEE/ACIS International Conference on Computer and Information Science (ICI",
+  "cat": "cs.LG"
+ },
+ {
+  "id": "http://arxiv.org/abs/1810.05711v1",
+  "title": "ProPatrol: Attack Investigation via Extracted High-Level Tasks",
+  "pub": "2018-10-12",
+  "comment": "The published version of this article will appear in proceedings of the 14th International Conference on Information Systems Security in Dec 2018",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/1808.03811v2",
+  "title": "Privacy Preserving Multi-Server k-means Computation over Horizontally Partitioned Data",
+  "pub": "2018-08-11",
+  "comment": "19 pages, 4 tables. International Conference on Information Systems Security. Springer, Cham, 2018",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/1801.08225v1",
+  "title": "Knock-Knock: The unbearable lightness of Android Notifications",
+  "pub": "2018-01-24",
+  "comment": "Presented at International Conference on Information Systems Security and Privacy (ICISSP 2018)",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/1708.04278v1",
+  "title": "Sampling High Throughput Data for Anomaly Detection of Data-Base Activity",
+  "pub": "2017-08-14",
+  "comment": "Proceedings of the 11th Pre-ICIS Workshop on Information Security and Privacy, Dublin, Ireland December 10, 2016",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/1705.08382v1",
+  "title": "Monitoring Information Quality within Web Service Composition and Execution",
+  "pub": "2017-04-22",
+  "comment": "International Conference on Information Systems Development, ISD 2011, Springer",
+  "cat": "cs.SE"
+ },
+ {
+  "id": "http://arxiv.org/abs/1704.02602v1",
+  "title": "Automatic Image Filtering on Social Networks Using Deep Learning and Perceptual Hashing During Crises",
+  "pub": "2017-04-09",
+  "comment": "Accepted for publication in the 14th International Conference on Information Systems For Crisis Response and Management (ISCRAM), 2017",
+  "cat": "cs.CY"
+ },
+ {
+  "id": "http://arxiv.org/abs/1703.04873v1",
+  "title": "Quantification of De-anonymization Risks in Social Networks",
+  "pub": "2017-03-15",
+  "comment": "Published in International Conference on Information Systems Security and Privacy, 2017",
+  "cat": "cs.SI"
+ },
+ {
+  "id": "http://arxiv.org/abs/1703.03378v1",
+  "title": "Multi-sensor authentication to improve smartphone security",
+  "pub": "2017-03-09",
+  "comment": "Published in International Conference on Information Systems Security and Privacy (ICISSP), 2015",
+  "cat": "cs.CR"
+ },
+ {
+  "id": "http://arxiv.org/abs/1612.09462v1",
+  "title": "Cooperation among competitors in the open-source arena: The case of OpenStack",
+  "pub": "2016-12-30",
+  "comment": "Presented at the 2016 International Conference on Information Systems (ICIS 2016), held in Dublin, Ireland, December 11-14, 2016. \"IS in Organizations and Socie",
+  "cat": "cs.SI"
+ },
+ {
+  "id": "http://arxiv.org/abs/1605.01514v1",
+  "title": "Fitness-based Adaptive Control of Parameters in Genetic Programming: Adaptive Value Setting of Mutation Rate and Flood Mechanisms",
+  "pub": "2016-05-05",
+  "comment": "in 2011 IEEE International Conference on Intelligent Computing and Intelligent Systems (ICIS 2011)",
+  "cat": "cs.NE"
+ },
+ {
+  "id": "http://arxiv.org/abs/1511.01924v1",
+  "title": "An Overview of the New Test Stand for H- Ion Sources at FNAL",
+  "pub": "2015-11-05",
+  "comment": "3 pp. Contributed paper, published as part of the Proceedings of the 16th International Conference on Ion Sources (ICIS 2015), New York City, NY, August 2015",
+  "cat": "physics.acc-ph"
+ },
+ {
+  "id": "http://arxiv.org/abs/1309.1339v1",
+  "title": "Study of Sublevel Population Mixing Effects in Hydrogen Neutral Beams",
+  "pub": "2013-09-05",
+  "comment": "Submitted to 15th International conference on ion sources (ICIS-13)",
+  "cat": "physics.plasm-ph"
+ },
+ {
+  "id": "http://arxiv.org/abs/0804.4071v1",
+  "title": "Logic Mining Using Neural Networks",
+  "pub": "2008-04-25",
+  "comment": "Proceedings of the International Conference on Intelligent Systems 2005 (ICIS 2005), Kuala Lumpur, 1-3 December 2005",
+  "cat": "cs.LO"
+ },
+ {
+  "id": "http://arxiv.org/abs/alg-geom/9708018v3",
+  "title": "Conormal Geometry of Maximal Minors",
+  "pub": "1997-08-22",
+  "comment": "16 pages, PLAIN TeX (with switches for AFour, 2-across), many minor corrections and improvements, especially about equisingularity theory of ICIS germs",
+  "cat": "math.AG"
+ }
+]

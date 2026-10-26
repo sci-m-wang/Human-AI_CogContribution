@@ -1,0 +1,9 @@
+Abstract (for the OpenReview submission form, not for the paper file)
+
+Disclosure of AI use in research usually lists tasks, which shows activity and hides the thinking that each party contributes. This paper asks how humans and AI share the thinking when they do research together. It builds a typology of observable cognitive contributions, namely Knowledge, Proposal, Decision and Metacognition, together with a trace-based coding standard. The typology is applied to the project that produced this paper, in which a human orchestrator directed AI agents and every session was recorded. Two LLM coders from different model families coded 265 units. Human, AI and mixed contributions all exist. The human committed to the direction of the work, the AI supplied knowledge, proposals and verification, and seven outputs carry explicit contributions from both. Reading 38 delegation episodes against the codes yields an account of delegation and commitment with three propositions on bounded delegation, retained commitment and knowledge-induced reframing. The typology and the propositions extend IS work on delegation to AI and give disclosure a vocabulary beyond task lists.
+
+Keywords: Human-AI collaboration, Delegation, Cognitive contribution, Autonomous scholarship, Generative AI, Qualitative case study
+
+Title for the form: Who Contributes What in Human-AI Research? A Qualitative Case Study of a Project That Analyses Itself
+
+Why this text is separate: the ICIS 2026 template states that authors and abstracts should not be in the file that contains the body of the paper, because they are added in the review system. The sampled ICIS papers (author versions on arXiv) all carry an abstract of 114 to 184 words (median 159) and 3 to 6 keywords. This abstract replaces the version of 26 October that matched the earlier title, and it describes the recoded corpus.

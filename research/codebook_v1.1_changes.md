@@ -1,0 +1,13 @@
+# Codebook v1.1: pending changes (v1.0 is frozen; do not edit v1.0)
+
+Status: CANDIDATE list, 2026-10-21. Becomes v1.1 when the human approves; then re-code (revision history is itself data). Sources of changes: human rulings I019, I020; dev-set coding observations (E028, E029).
+
+| # | Change | Reason | Origin |
+|---|---|---|---|
+| C1 | **Narration rule.** An AI unit that only announces or describes its own next operation (e.g. "I will first log this, then test...") is coded X (execution), with no cognitive type. | Human ruling: it counts as execution with no cognitive contribution. Dev-set: GPT coded such units M2, Gemini X; M was inflated (present in 77-95% of AI units). | I020, E028, E029 |
+| C2 | **M scope narrowed.** M1/M2/M3 require content that changes the shared research state about process or reliability: a check result, an error or gap found, a changed plan or rule, a stated limit. Announcing a routine step is X. | Follows C1; M had little discriminating power. | E028 |
+| C3 | **Mixed contribution (analysis-level definition, not a tag).** A *mixed* contribution = both actors contribute to the same output, each with an explicit expression, e.g. AI supplies knowledge and the human proposes a scheme built on it. Bare approvals ("ok", "confirmed") by the human, repeated without content, do not count. The test is content-based: the human text must add, change or reason about something (not length-based). | Human ruling I019; filter weakness E029. | I019, E029 |
+| C4 | **Correction is not a transition category.** A human correction is coded as ordinary tags in its own unit (M1/M2 and any K/P/D it carries) and appears as a transition in the next round. | Human ruling I020. | I020 |
+| C5 | **Uptake and epistemic_transfer**: keep as optional evidence notes, not as reliability-bearing tags (two coders used them inconsistently). Epistemic transfer is only counted when the receiver explicitly says content was new or visibly builds on it. | Dev-set disagreement (uptake: 21 vs 37 "adopted"). | E028 |
+| C6 | **Cross-session pairing.** Transitions and mixed contributions are built within one session timeline, plus explicit spawn/report links to sub-agent sessions; never by adjacency across sessions. | Filter error found (S02-U007 -> S01-U001). | E029 |
+| C7 | **Transition unit.** Transitions are built from the *primary tag* of consecutive units (human decision I013/I018-follow-up: primary tag), written `actor:type -> actor:type`. Mixed contributions are identified separately at the output level (C3) and annotated on transitions that form them. | Human decision on primary tags. | session |

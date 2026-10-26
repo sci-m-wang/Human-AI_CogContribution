@@ -1,0 +1,25 @@
+{
+  "sheet_id": "sheet-s3",
+  "canvas_px": [
+    1536,
+    1024
+  ],
+  "grid": [
+    2,
+    2
+  ],
+  "cell_px": [
+    768,
+    512
+  ],
+  "key": "#FF00FF",
+  "order": [
+    "existence",
+    "distribution",
+    "transition",
+    "exchange"
+  ],
+  "prompt_file": "prompts\\sheet-s3.txt",
+  "prompt_chars_nonspace": 2738,
+  "plan_sha256": "205937e19809e0bb514e2736355a5c08c42c2c3fec25ecd40b438a1e41b5fd13"
+}

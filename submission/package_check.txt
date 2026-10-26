@@ -1,0 +1,8 @@
+paper pages: 10, References heading on page 9, so the main paper has 8 pages
+output <project>\submission\ICIS2026_PDW_submission.pdf: 31 pages, 1.09 MB (limit 50 MB)
+pdf page 1: starts 'Who Contributes What in Human-AI Research Forty-Sev' ... footer number []
+pdf page 8: starts 'Who Contributes What in Human-AI Research Forty-Sev' ... footer number []
+pdf page 9: starts 'Who Contributes What in Human-AI Research Forty-Sev' ... footer number ['1']
+pdf page 11: starts 'Workflow Appendix Forty-Seventh International Confe' ... footer number []
+pdf page 31: starts 'Workflow Appendix Forty-Seventh International Confe' ... footer number []
+fonts embedded: ['BCDEEE+Georgia-Italic', 'BCDFEE+Georgia', 'BCDGEE+Georgia-Bold', 'BCDHEE+Georgia', 'BCDIEE+Georgia-BoldItalic', 'BCDIEE+SimSun', 'BCDJEE+Georgia-Bold', 'BCDJEE+Georgia-BoldItalic']

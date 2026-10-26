@@ -1,0 +1,48 @@
+actor,type,stage,units_agreed
+AI-primary,D,design,4
+AI-primary,D,literature,2
+AI-primary,K,analysis,6
+AI-primary,K,design,5
+AI-primary,K,literature,1
+AI-primary,K,problem formulation,4
+AI-primary,K,theory,4
+AI-primary,K,tooling,6
+AI-primary,K,verification,1
+AI-primary,K,writing,1
+AI-primary,M,design,1
+AI-primary,M,governance,2
+AI-primary,M,literature,15
+AI-primary,M,problem formulation,1
+AI-primary,M,revision,1
+AI-primary,M,tooling,8
+AI-primary,M,verification,18
+AI-primary,P,analysis,3
+AI-primary,P,design,6
+AI-primary,P,problem formulation,3
+AI-primary,P,theory,2
+AI-primary,P,tooling,1
+AI-subagent,K,literature,10
+AI-subagent,M,literature,9
+AI-subagent,P,design,1
+human,D,analysis,1
+human,D,design,8
+human,D,governance,2
+human,D,literature,1
+human,D,problem formulation,4
+human,D,theory,1
+human,D,writing,1
+human,K,design,2
+human,K,governance,1
+human,K,problem formulation,1
+human,K,theory,3
+human,K,tooling,2
+human,M,analysis,2
+human,M,design,3
+human,M,governance,3
+human,M,literature,2
+human,M,theory,1
+human,M,tooling,2
+human,M,writing,1
+human,P,design,1
+human,P,problem formulation,1
+human,P,theory,1

@@ -1,0 +1,11 @@
+##### submission\ICIS2026_PDW_submission.pdf pages=31
+  [identity] none
+  [path] none
+  [email_url_key] none
+  [cjk] '可' x3 on p[15]; '以' x3 on p[15]; '帮' x1 on p[15]; '我' x4 on p[15]; '重' x3 on p[15, 16]; '新' x2 on p[15, 16]; '绘' x2 on p[15]; '制' x1 on p[15]; '一' x2 on p[15, 16]; '下' x4 on p[15, 16]; '两' x4 on p[15]; '个' x5 on p[15, 16]
+  [mojibake] none
+  [imperative_to_ai] none
+  [hidden] none
+  [hidden-style] none
+  metadata: {'title': 'Who Contributes What in Human-AI Research? A Qualitative Case Study of a Project That Analyses Itself', 'author': '', 'subject': '', 'keywords': '', 'creator': ''}
+HARD CATEGORIES WITH HITS: 0

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "figure": {"id": "fig-recon-b", "ref_image": "none", "ref_size_px": [1536, 1024], "width_mm": 165, "target_dpi": 300, "background": "#FFFFFF"},
+  "style": {
+    "summary": "clean flat vector-style scientific illustration with soft pastel fills, friendly and refined, identical to the previously generated icon set of this figure",
+    "line": "one uniform thin dark navy outline (#1F2937), identical weight on every element",
+    "shading": "flat fills with one soft shadow tone, light from the upper left, no gradients",
+    "palette": ["#1F2937", "#4E79A7", "#8FB8DE", "#F28E2B", "#59A14F", "#E5E7EB", "#F4D6A6"],
+    "avoid": ["photorealism", "gradients", "text of any kind", "magenta or pink colors anywhere", "drop shadows on the background"]
+  },
+  "sheet_rules": "All elements are small icons in the same drawn style, same outline weight and same palette, as if drawn by one illustrator for a journal figure. Do not use magenta or pink anywhere in any element. No letters, digits or words inside any element.",
+  "elements": [
+    {"id": "coder_a", "label": "Coder A", "route": "generate", "description": "a friendly round-headed white robot with light blue headphones, holding an open booklet in front of its chest, small antenna, seen from the front", "view": "front", "must_not_contain": ["text", "arrows", "letters"], "slot": {"bbox_px": [60, 130, 230, 300]}, "sheet": "b1"},
+    {"id": "coder_b", "label": "Coder B", "route": "generate", "description": "a friendly round-headed white robot with teal headphones, holding an open booklet in front of its chest, small antenna, seen from the front, slightly different head shape from the other robot", "view": "front", "must_not_contain": ["text", "arrows", "letters"], "slot": {"bbox_px": [250, 130, 420, 300]}, "sheet": "b1"},
+    {"id": "scales", "label": "Agreement", "route": "generate", "description": "a small balance scale with two pans, evenly balanced, navy and light blue", "view": "front", "must_not_contain": ["text", "arrows", "letters"], "slot": {"bbox_px": [440, 130, 640, 300]}, "sheet": "b1"},
+    {"id": "manuscript", "label": "Manuscript", "route": "generate", "description": "a document page with abstract grey lines and a yellow pencil lying diagonally across its lower right corner", "view": "slightly angled front", "must_not_contain": ["text", "arrows", "letters"], "slot": {"bbox_px": [60, 330, 230, 500]}, "sheet": "b1"},
+    {"id": "pages", "label": "Added sessions", "route": "generate", "description": "a neat stack of three paper pages with abstract grey lines, slightly fanned", "view": "slightly angled front", "must_not_contain": ["text", "arrows", "letters"], "slot": {"bbox_px": [250, 330, 420, 500]}, "sheet": "b1"},
+    {"id": "question_doc", "label": "Question", "route": "generate", "description": "a document page with a small magnifying glass held in front of its upper part, navy and light blue", "view": "front", "must_not_contain": ["text", "arrows", "letters"], "slot": {"bbox_px": [440, 330, 640, 500]}, "sheet": "b1"},
+    {"id": "st_lit", "label": "Literature", "route": "generate", "description": "a magnifying glass, navy rim and light blue lens", "view": "front", "must_not_contain": ["text", "arrows"], "slot": {"bbox_px": [60, 560, 230, 730]}, "sheet": "b2"},
+    {"id": "st_theory", "label": "Theory", "route": "generate", "description": "a lightbulb with a small yellow glow, navy outline", "view": "front", "must_not_contain": ["text", "arrows"], "slot": {"bbox_px": [250, 560, 420, 730]}, "sheet": "b2"},
+    {"id": "st_design", "label": "Design", "route": "generate", "description": "a single yellow pencil lying diagonally, with a navy tip", "view": "front", "must_not_contain": ["text", "arrows"], "slot": {"bbox_px": [440, 560, 640, 730]}, "sheet": "b2"},
+    {"id": "st_analysis", "label": "Analysis", "route": "generate", "description": "a conical laboratory flask with light blue liquid and two small bubbles", "view": "front", "must_not_contain": ["text", "arrows"], "slot": {"bbox_px": [60, 760, 230, 930]}, "sheet": "b2"},
+    {"id": "st_interp", "label": "Interpretation", "route": "generate", "description": "a single rounded speech bubble in light blue with three small white dots", "view": "front", "must_not_contain": ["text", "arrows"], "slot": {"bbox_px": [250, 760, 420, 930]}, "sheet": "b2"},
+    {"id": "st_write", "label": "Writing", "route": "generate", "description": "a single document page with abstract grey lines and a folded corner", "view": "front", "must_not_contain": ["text", "arrows", "letters"], "slot": {"bbox_px": [440, 760, 640, 930]}, "sheet": "b2"},
+    {"id": "st_verify", "label": "Verification", "route": "generate", "description": "a clipboard with three green tick boxes", "view": "front", "must_not_contain": ["text", "arrows", "letters"], "slot": {"bbox_px": [60, 960, 230, 1130]}, "sheet": "b3"},
+    {"id": "st_revise", "label": "Revision", "route": "generate", "description": "two curved arrows forming a circle, light blue and navy, like a refresh symbol", "view": "front", "must_not_contain": ["text"], "slot": {"bbox_px": [250, 960, 420, 1130]}, "sheet": "b3"},
+    {"id": "gear_grey", "label": "Gear", "route": "generate", "description": "a single plain grey gear with a round hole, navy outline", "view": "front", "must_not_contain": ["text", "arrows"], "slot": {"bbox_px": [440, 960, 640, 1130]}, "sheet": "b3"},
+    {"id": "scissors", "label": "Cut", "route": "generate", "description": "a pair of open scissors with navy handles and silver blades", "view": "front", "must_not_contain": ["text", "arrows"], "slot": {"bbox_px": [660, 960, 830, 1130]}, "sheet": "b3"},
+    {"id": "check_badge", "label": "Check", "route": "generate", "description": "a round green badge with a thick white check mark, navy outline", "view": "front", "must_not_contain": ["text"], "slot": {"bbox_px": [850, 960, 1020, 1130]}, "sheet": "b3"},
+    {"id": "cross_badge", "label": "Cross", "route": "generate", "description": "a round orange-red badge with a thick white cross, navy outline", "view": "front", "must_not_contain": ["text"], "slot": {"bbox_px": [1040, 960, 1210, 1130]}, "sheet": "b3"}
+  ]
+}

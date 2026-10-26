@@ -1,0 +1,27 @@
+{
+  "sheet_id": "sheet-s1",
+  "canvas_px": [
+    1536,
+    1024
+  ],
+  "grid": [
+    3,
+    2
+  ],
+  "cell_px": [
+    512,
+    512
+  ],
+  "key": "#FF00FF",
+  "order": [
+    "human",
+    "agent",
+    "subagents",
+    "sessions",
+    "tag",
+    "coders"
+  ],
+  "prompt_file": "prompts\\sheet-s1.txt",
+  "prompt_chars_nonspace": 3153,
+  "plan_sha256": "205937e19809e0bb514e2736355a5c08c42c2c3fec25ecd40b438a1e41b5fd13"
+}

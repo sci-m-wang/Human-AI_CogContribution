@@ -1,0 +1,290 @@
+{
+ "version": 1,
+ "figure": {
+  "id": "fig-recon-c",
+  "ref_image": "none",
+  "ref_size_px": [
+   1536,
+   1024
+  ],
+  "width_mm": 165,
+  "target_dpi": 300,
+  "background": "#FFFFFF"
+ },
+ "style": {
+  "summary": "clean flat vector-style scientific illustration with soft pastel fills, friendly and refined, identical to the previously generated icon set of this figure",
+  "line": "one uniform thin dark navy outline (#1F2937), identical weight on every element",
+  "shading": "flat fills with one soft shadow tone, light from the upper left, no gradients",
+  "palette": [
+   "#1F2937",
+   "#4E79A7",
+   "#8FB8DE",
+   "#F28E2B",
+   "#59A14F",
+   "#E5E7EB",
+   "#F4D6A6"
+  ],
+  "avoid": [
+   "photorealism",
+   "gradients",
+   "text of any kind",
+   "magenta or pink colors anywhere",
+   "drop shadows on the background"
+  ]
+ },
+ "sheet_rules": "All elements are small icons in the same drawn style, same outline weight and same palette, as if drawn by one illustrator for a journal figure. Do not use magenta or pink anywhere in any element. No letters, digits or words inside any element.",
+ "elements": [
+  {
+   "id": "human",
+   "label": "human",
+   "route": "generate",
+   "description": "a friendly young researcher with black hair and round glasses, head and shoulders, light blue shirt, smiling, seen from the front",
+   "view": "front",
+   "must_not_contain": [
+    "text",
+    "arrows",
+    "letters"
+   ],
+   "slot": {
+    "bbox_px": [
+     60,
+     130,
+     230,
+     300
+    ]
+   },
+   "sheet": "c1"
+  },
+  {
+   "id": "agent",
+   "label": "agent",
+   "route": "generate",
+   "description": "a friendly round-headed white robot head and shoulders with dark navy face screen and two blue dot eyes, small antenna, seen from the front, no headphones, no book",
+   "view": "front",
+   "must_not_contain": [
+    "text",
+    "arrows",
+    "letters"
+   ],
+   "slot": {
+    "bbox_px": [
+     250,
+     130,
+     420,
+     300
+    ]
+   },
+   "sheet": "c1"
+  },
+  {
+   "id": "primary_agent",
+   "label": "primary_agent",
+   "route": "generate",
+   "description": "a friendly white robot, head and upper body, one hand raised in a wave, navy face screen with two blue eyes, small antenna, seen from the front, no headphones",
+   "view": "front",
+   "must_not_contain": [
+    "text",
+    "arrows",
+    "letters"
+   ],
+   "slot": {
+    "bbox_px": [
+     440,
+     130,
+     610,
+     300
+    ]
+   },
+   "sheet": "c1"
+  },
+  {
+   "id": "subagents",
+   "label": "subagents",
+   "route": "generate",
+   "description": "two small friendly robots side by side, one teal and one light blue, each with a navy face screen and small antenna, seen from the front",
+   "view": "front",
+   "must_not_contain": [
+    "text",
+    "arrows",
+    "letters"
+   ],
+   "slot": {
+    "bbox_px": [
+     60,
+     330,
+     230,
+     500
+    ]
+   },
+   "sheet": "c1"
+  },
+  {
+   "id": "knowledge",
+   "label": "knowledge",
+   "route": "generate",
+   "description": "a stack of two closed books in green and navy with an open book lying on top, light blue pages, seen from slightly above",
+   "view": "front",
+   "must_not_contain": [
+    "text",
+    "arrows",
+    "letters"
+   ],
+   "slot": {
+    "bbox_px": [
+     250,
+     330,
+     420,
+     500
+    ]
+   },
+   "sheet": "c1"
+  },
+  {
+   "id": "proposal",
+   "label": "proposal",
+   "route": "generate",
+   "description": "a rolled blueprint sheet in light green with a simple network diagram of small boxes and lines, a yellow pencil and a green set-square triangle beside it",
+   "view": "front",
+   "must_not_contain": [
+    "text",
+    "arrows",
+    "letters"
+   ],
+   "slot": {
+    "bbox_px": [
+     440,
+     330,
+     610,
+     500
+    ]
+   },
+   "sheet": "c1"
+  },
+  {
+   "id": "decision",
+   "label": "decision",
+   "route": "generate",
+   "description": "a wooden signpost with two arrow-shaped boards pointing opposite ways in orange and yellow, with a small green check badge on the upper board",
+   "view": "front",
+   "must_not_contain": [
+    "text",
+    "arrows",
+    "letters"
+   ],
+   "slot": {
+    "bbox_px": [
+     60,
+     130,
+     230,
+     300
+    ]
+   },
+   "sheet": "c2"
+  },
+  {
+   "id": "metacognition",
+   "label": "metacognition",
+   "route": "generate",
+   "description": "a purple-and-navy clipboard with check boxes, a magnifying glass held in front of it, and a small gear at the lower right",
+   "view": "front",
+   "must_not_contain": [
+    "text",
+    "arrows",
+    "letters"
+   ],
+   "slot": {
+    "bbox_px": [
+     250,
+     130,
+     420,
+     300
+    ]
+   },
+   "sheet": "c2"
+  },
+  {
+   "id": "execution",
+   "label": "execution",
+   "route": "generate",
+   "description": "a grey gear with a wrench crossed over it, navy outline",
+   "view": "front",
+   "must_not_contain": [
+    "text",
+    "arrows",
+    "letters"
+   ],
+   "slot": {
+    "bbox_px": [
+     440,
+     130,
+     610,
+     300
+    ]
+   },
+   "sheet": "c2"
+  },
+  {
+   "id": "doc_gears",
+   "label": "doc_gears",
+   "route": "generate",
+   "description": "a document page with abstract grey lines and two interlocking gears at its lower right, one blue and one orange",
+   "view": "front",
+   "must_not_contain": [
+    "text",
+    "arrows",
+    "letters"
+   ],
+   "slot": {
+    "bbox_px": [
+     60,
+     330,
+     230,
+     500
+    ]
+   },
+   "sheet": "c2"
+  },
+  {
+   "id": "bubble_h",
+   "label": "bubble_h",
+   "route": "generate",
+   "description": "a rounded speech bubble in light blue with a pointed tail on the lower left, empty inside",
+   "view": "front",
+   "must_not_contain": [
+    "text",
+    "arrows",
+    "letters"
+   ],
+   "slot": {
+    "bbox_px": [
+     250,
+     330,
+     420,
+     500
+    ]
+   },
+   "sheet": "c2"
+  },
+  {
+   "id": "bubble_a",
+   "label": "bubble_a",
+   "route": "generate",
+   "description": "a rounded speech bubble in light grey with a pointed tail on the lower left, empty inside",
+   "view": "front",
+   "must_not_contain": [
+    "text",
+    "arrows",
+    "letters"
+   ],
+   "slot": {
+    "bbox_px": [
+     440,
+     330,
+     610,
+     500
+    ]
+   },
+   "sheet": "c2"
+  }
+ ]
+}

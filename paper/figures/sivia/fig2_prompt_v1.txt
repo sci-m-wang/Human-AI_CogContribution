@@ -1,0 +1,96 @@
+CREATE ONE PUBLICATION-STYLE SCIENTIFIC MECHANISM ILLUSTRATION.
+
+SOURCE CONTRACT
+Paper: Who Contributes What in Human-AI Research? A Qualitative Case Study of a Project That Analyses Itself (submission to the ICIS 2026 workshop on Autonomous Scholarship).
+Source of facts: the manuscript text, the frozen coding manual (version 1.1), the coded units of the recorded project and the transition table derived from them.
+Figure title: Interaction modes and mixed contributions.
+Scientific question answered by this figure: through which exchanges do human and AI contributions pass into one another, and how does a mixed contribution come about?
+Central claim: Transitions between consecutive contributions fall into six recurring interaction modes, and a mixed contribution arises when both actors add explicit content to the same output, as in the worked case where AI-supplied knowledge led a human to propose a new type.
+The numbers shown are transition counts found by two independent coders in one project. They are reference counts, not effect sizes. The worked case is a real episode of the project, drawn with short paraphrased labels.
+Role of this figure: close explanation of the transition and mixed-contribution results, printed across the full text width of a conference paper, companion to an overview figure that explains the coding pipeline. The overview is not repeated here.
+
+DENSITY GATE, HIGHEST PRIORITY
+Use a 3:2 landscape canvas on a white background. Keep the meaningful content within 2% to 98% of the width and 3% to 97% of the height. Fill 85% to 92% of the canvas width and 80% to 92% of its height with meaningful scientific objects. There is no empty banner, no empty lower third, no oversized title and no decorative margin. The title occupies at most 5% of the height. Enlarge scenes and objects until the largest empty rectangle is smaller than 3% of the canvas area, keeping only narrow connector lanes. Every large light area contains a scene, a representation or a necessary connector lane.
+
+EXACT VISIBLE LABELS
+Only these short labels appear in the artwork, spelled exactly as written. Title: Interaction modes and mixed contributions. Region headers: Six interaction modes, Worked case, Mixed contribution. Column labels: Human, AI, Coder A, Coder B. Mode names: Direction and drafting, Proposal and commitment, Supply and reframing, Regulation and response, Challenge, Autonomous work. Type names: Knowledge, Proposal, Decision, Metacognition. Case step labels: Literature summary, Knowledge as a type, Framework draft, Rulings on unit and evaluation, Typology. Rule labels: Both add content, Bare approval. Small tags: reference counts, schematic. The numeric counts printed in the mode rows are 8 and 6, 7 and 6, 1 and 3, 8 and 9, 2 and 4, 39 and 22, in the order of the modes. Production prose is never typeset.
+
+CANVAS AND STRUCTURAL HIERARCHY
+Compose the canvas as one large upper band and one slimmer lower band. The upper band occupies about 70% of the height and is split into two scenes. The left scene, Six interaction modes, takes about 58% of the width and holds six aligned lanes. The right scene, Worked case, takes about 42% of the width and holds a zigzag timeline of four steps. A gutter of about 1.2% of the width separates them. The lower band occupies about 26% of the height and spans the full width as the scene Mixed contribution, which contrasts what counts with what does not. The remaining space is the title strip at the top.
+
+The dominant region is the Worked case scene because it carries the central claim about how a mixed contribution forms, and it has the largest icons and the strongest saturation. The six lanes on the left are dense but regular, with equal row heights, so that the reader can scan them quickly and compare. The lower band is a short, readable contrast.
+
+Region headers are narrow bold bands with white text on a blue-grey fill, with pill ends. The left and lower headers use a mid blue-grey and the Worked case header uses a deeper blue-grey to mark it as the focal scene. Every scene sits in a very light panel with a thin dashed grey outline, small corner radius and narrow gutters.
+
+SCIENTIFIC GRAMMAR OF THE FIGURE
+A contribution is drawn as a chip: a small rounded rectangle with a light fill in its type colour, a deeper outline of the same hue, a type glyph at the left and a short type label at the right. Types have stable colours across the whole figure. Knowledge is blue (fill #E3ECF5, outline #4E79A7) with a small open-book glyph. Proposal is green (fill #E5F1E3, outline #59A14F) with a small blueprint glyph. Decision is orange (fill #FCE9D6, outline #F28E2B) with a small signpost glyph. Metacognition is purple (fill #EBDDEA, outline #9B6A8E) with a small clipboard and magnifier glyph. Actors are never expressed through colour. They are expressed through a researcher face icon for Human and a robot face icon for AI, placed at the left edge of each chip or at the head of each lane.
+
+A transition is drawn as an arrow from one chip to the next in time order. The arrow direction means that the second contribution follows the first in the record. It does not mean causation and does not imply that the first contribution is the cause of the second. A mixed contribution is drawn as an output document that receives arrows from chips of both actors and carries a pair of interlocking gears.
+
+SIX INTERACTION MODES SCENE
+Place the header Six interaction modes at the top of the left panel. Under the header put a slim column header row with the small researcher icon above the left chip column and the small robot icon above the right chip column, with the labels Human and AI beside the icons, and at the far right a small label Coder A and Coder B above the two count columns. Under the header row draw six lanes of equal height, one under the other, separated by thin dotted dividers. Number each lane with a small circled numeral at its left edge: the numerals one to six are the only numerals other than counts.
+
+Each lane has the same internal structure. A left chip column, about 28% of the lane width, holds a chip for the earlier contribution when the human acts first, or the later contribution when the AI acts first. A right chip column of the same width on the right holds the other chip. Between them, a broad blue-grey arrow runs across the middle, from the left chip to the right chip or from the right chip to the left chip depending on the order. The mode name is written in bold dark text above the arrow, centred between the chips. At the far right of each lane draw two small count capsules, white with a thin grey outline, holding the numbers for Coder A and Coder B.
+
+Lane one, Direction and drafting. Left chip: researcher icon and an orange Decision chip. Right chip: robot icon and a green Proposal chip. The arrow runs from left to right. Counts eight and six. Meaning: the human sets or reframes a direction and the AI drafts.
+
+Lane two, Proposal and commitment. Left chip: researcher icon and an orange Decision chip. Right chip: robot icon and a green Proposal chip. The arrow runs from right to left, from the Proposal chip to the Decision chip. Counts seven and six. Meaning: the AI offers a candidate and the human commits to it, rejects it or stops it.
+
+Lane three, Supply and reframing. Left chip: researcher icon and an orange Decision chip. Right chip: robot icon and a blue Knowledge chip. The arrow runs from right to left, from the Knowledge chip to the Decision chip. Counts one and three. Meaning: the AI supplies knowledge and the human decides on it.
+
+Lane four, Regulation and response. Left chip: researcher icon and a purple Metacognition chip, with a small second orange Decision chip stacked behind it to show that a human Decision or a human Metacognition can start this mode. Right chip: robot icon and a purple Metacognition chip. The arrow runs from left to right. Counts eight and nine. Meaning: the human steers how the work is done and the AI checks, reports or adjusts.
+
+Lane five, Challenge. Left chip: researcher icon and a purple Metacognition chip. Right chip: robot icon and a green Proposal chip. The arrow runs from right to left, from the Proposal chip to the Metacognition chip. Counts two and four. Meaning: the human questions or redirects a proposal of the AI.
+
+Lane six, Autonomous work. This lane contains only AI chips. The left chip carries the robot icon and a purple Metacognition chip with a small circular arrow glyph that shows repetition. The right chip carries the robot icon and a blue Knowledge chip. A short arrow runs from left to right and a small curved arrow loops from the left chip back to itself. Counts thirty-nine and twenty-two. Meaning: runs of verification and reporting between human messages. Draw the empty human column of this lane with a faint dotted outline of a human chip with a diagonal slash to show that the human does not act in this mode.
+
+The lanes are visually distinct yet regular. The human chips are always in the left column and the AI chips in the right column, so that the reader sees at a glance which actor leads. Keep the arrows primary, thick and clear, with solid triangular heads that touch the chip boundary without covering the type label.
+
+WORKED CASE SCENE
+Place the header Worked case at the top of the right panel. The scene shows one real episode of the project as a zigzag timeline between two lanes. The top lane is the human lane with a large researcher icon at its left end and a thin horizontal line. The bottom lane is the AI lane with a large robot icon at its left end and a thin horizontal line. The lanes are about 40% apart in height. Four large step cards sit on the lanes in zigzag order from left to right, with the second and fourth on the human lane and the first and third on the AI lane. A sequence of arrows crosses between the lanes in the order one, two, three, four, and a faint numeral sits at the corner of each card.
+
+Step one, AI lane. A blue Knowledge card with an open-book glyph on top of two closed books and a short label Literature summary. A small robot icon sits at the card's corner. Meaning: the AI supplies a structured reading of cognition research that the human did not previously know.
+
+Step two, human lane. A large two-part card. The upper half is a blue Knowledge chip with a small lightbulb glyph and the label Knowledge as a type. The lower half is a green Proposal chip with a small pencil glyph. A small researcher icon sits at the card's corner. Between the halves a small plus sign connects them. Meaning: the human states that agents supply new knowledge to experts and proposes to treat knowledge as a type and to rename expression or design as Proposal.
+
+Step three, AI lane. A green Proposal card with a rolled blueprint glyph and a pencil, with the label Framework draft. A small robot icon sits at the corner. Meaning: the AI turns this into a draft framework.
+
+Step four, human lane. An orange Decision card with a signpost glyph and the label Rulings on unit and evaluation. A small researcher icon sits at the corner. Meaning: the human rules on evaluation and the unit of analysis.
+
+From the second and third cards draw two thin arrows into a common output object on the right edge of the panel. The output object is a small document with a stack of two pages, labeled Typology, with a pair of interlocking gears, one light blue and one orange, resting on its corner to indicate a mixed contribution. The arrows from the human card and from the AI card are of equal weight, so that both actors visibly contribute to the same output. A thin dotted bracket spans cards one to four to show that the sequence covers one episode.
+
+Size the cards generously: each card is about 22% of the panel width and 24% of the panel height, and the icons inside them are large and detailed rather than tiny. The arrows between the cards are broad and orthogonal, with small rounded corners. The numerals one to four are small faint grey circles at the card corners, not text labels. The zigzag must be unambiguous: every arrow connects two specific cards, and none of them passes behind a label.
+
+MIXED CONTRIBUTION SCENE
+Place the header Mixed contribution at the top of the lower band. Divide the band into two halves with a thin dotted vertical divider. The left half shows what counts, and the right half shows what does not count.
+
+Left half, Both add content. Draw a small human card with a researcher icon and a short speech bubble containing a blue book glyph and a green blueprint glyph, to show that the human adds knowledge and a proposal. Draw a small AI card with a robot icon and a short speech bubble containing a blue book glyph. Both cards send arrows to a common output document with a pair of interlocking gears on its corner, as in the worked case. Add a green check mark badge at the upper right of the document. Place the small label Both add content beneath the scene.
+
+Right half, Bare approval. Draw a small AI card with a robot icon and a green blueprint glyph, as a proposal. An arrow runs from it to a small human card with a researcher icon and a short speech bubble containing three small dots only, to show a bare approval without added content. The bubble is grey and slightly faded. An arrow from the human card to the output document is drawn with a thin grey dashed line and carries a small red-orange cross, to show that this path does not create a mixed contribution. The output document has no interlocking gears here and shows a single gear in grey. Place the small label Bare approval beneath the scene.
+
+SMALL TAGS
+Place the small grey italic tag reference counts at the right of the Six interaction modes header, close to the count columns, and the small grey italic tag schematic at the lower right of the Mixed contribution band. They are the only italics.
+
+TITLE
+Print the title Interaction modes and mixed contributions in bold dark navy at the top left, above the left panel, occupying at most 5% of the canvas height. Align it to the left edge of the first panel. Do not add a subtitle.
+
+CONNECTORS AND EDGE SEMANTICS
+Primary relations use broad blue-grey arrows with solid triangular heads. Contributions from two actors into one output use medium dark arrows. A non-counting path uses a thin grey dashed arrow. Association lines use thin dotted grey lines without arrowheads. Arrow routes are orthogonal with small rounded corners. No line passes behind a label or through an icon. Every arrowhead touches a boundary without covering text. Do not draw junction dots at incidental crossings. A junction dot appears only where one arrow truly divides.
+
+VISUAL GRAMMAR AND COLOUR
+The palette is a restrained set of blue-grey for structure, navy for text and four semantic type colours with a stable meaning: blue for Knowledge, green for Proposal, orange for Decision, purple for Metacognition. Grey is used for the non-counting path and neutral parts. Use white fills inside chips, bubbles and cards where useful. Use a flat vector illustration style with a thin uniform dark navy outline on every icon, flat fills with one soft shadow tone and light from the upper left, no gradients on the background, and no photographs. Keep icons consistent in outline weight and level of detail, as if drawn by one illustrator. The figure must still read in grayscale: the structure comes from headers, outlines, arrows, the position of chips and the large Worked case cards.
+
+TYPOGRAPHY
+Use a clean sans-serif typeface. Use one bold weight for the title, region headers and mode names and one regular weight for the remaining labels. Title about 5% of the height. Region headers about 2.6% of the height. Mode names about 2.2% of the height. Chip labels about 2.0% of the height. Small labels and counts about 1.8% of the height. The smallest label is never smaller than 1.6% of the canvas height, so that it stays readable when the figure is printed across the full text width. Use sentence case and avoid all capital banners.
+
+WHAT EACH SCENE MUST COMMUNICATE
+Six interaction modes: the same four types appear in recurring pairs of consecutive contributions, one actor leads and the other follows, and the lanes differ by who leads and which types are paired. The last lane contains the AI alone. Worked case: knowledge supplied by the AI changed a human's construct, the human proposed, the AI drafted, the human decided, and the typology that resulted carries both actors' contributions. Mixed contribution: a contribution is mixed when both actors add explicit content to the same output, and a bare approval does not make it mixed.
+
+ATOMIC ASSETS AND LATER RECONSTRUCTION
+Draw each icon as a separate, clearly outlined object with a clean silhouette on its own, because the icons will be generated again as independent transparent assets and inserted into an editable diagram. Keep labels, arrows, brackets, chips, panels and headers as clean geometric elements that can be rebuilt as native diagram objects. Do not paint chart axes, numbers or text lines as realistic data.
+
+WHAT THE FIGURE MUST NOT SHOW
+Do not print percentages, kappa values, model names or any quantity other than the six pairs of counts listed above. Do not add a legend box, a status board, a disclaimer, a production note or a list of steps. Do not use magenta or pink anywhere. Do not draw photographs. Do not place any label that is not listed above. Do not create a wall of equal rounded cards: the Worked case scene must be visibly the largest and most saturated scene, the six lanes must be aligned and regular, and the lower band must contain two diagrams that contrast with each other.
+
+FINAL APPEARANCE
+Render one complete visual draft that matches this instantiated specification. The picture should communicate who leads in each interaction mode and how a mixed contribution arises before the reader reads any label. The result looks like a carefully composed scientific mechanism illustration with lively but restrained icons, not a glossy product diagram and not a poster full of text. Keep scientific fields atomic in appearance, with separate frames, symbols and connectors that are suitable for later editable reconstruction. Do not print section headings of this specification, editing instructions, provenance notes or approval requests inside the image. The final artwork contains the scientific scene and its concise labels only.

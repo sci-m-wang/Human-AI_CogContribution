@@ -1,0 +1,27 @@
+{
+  "sheet_id": "sheet-b1",
+  "canvas_px": [
+    1536,
+    1024
+  ],
+  "grid": [
+    3,
+    2
+  ],
+  "cell_px": [
+    512,
+    512
+  ],
+  "key": "#FF00FF",
+  "order": [
+    "coder_a",
+    "coder_b",
+    "scales",
+    "manuscript",
+    "pages",
+    "question_doc"
+  ],
+  "prompt_file": "prompts\\sheet-b1.txt",
+  "prompt_chars_nonspace": 3169,
+  "plan_sha256": "27ae3e8ea82be39736c3e26e1950ddecde0fc9352aae9fb59182d8dc6225598c"
+}

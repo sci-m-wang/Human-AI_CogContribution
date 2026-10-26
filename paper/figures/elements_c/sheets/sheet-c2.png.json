@@ -1,0 +1,12 @@
+{
+ "tool": "azure-openai images/generations (python port of imagegen.mjs)",
+ "model": "gpt-image-2.5-sunburst",
+ "size": "1536x1024",
+ "quality": "high",
+ "prompt_file": "sheet-c2.txt",
+ "prompt_sha256": "c80a3b788b6d0365384ff132957ffa37b5f7876e201764ebef0fec219417b016",
+ "seconds": 33.7,
+ "bytes": 966169,
+ "output_sha256": "b208345b33f58837bd631dc2da9a86639d757d0e3524ca1ba5b48eec2ee1e14b",
+ "timestamp": "2026-10-21T21:35:49+0800"
+}

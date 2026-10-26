@@ -1,0 +1,16 @@
+actor,type,units,gpt,gemini,agreed,either
+human,K,21,9,9,9,9
+human,P,21,5,4,3,6
+human,D,21,18,19,18,19
+human,M,21,15,16,14,17
+human,X,21,0,0,0,0
+AI-primary,K,85,39,30,28,41
+AI-primary,P,85,17,18,15,20
+AI-primary,D,85,10,10,6,14
+AI-primary,M,85,51,47,46,52
+AI-primary,X,85,32,45,32,45
+AI-subagent,K,40,14,10,10,14
+AI-subagent,P,40,2,1,1,2
+AI-subagent,D,40,0,0,0,0
+AI-subagent,M,40,19,9,9,19
+AI-subagent,X,40,17,31,17,31

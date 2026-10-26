@@ -1,0 +1,27 @@
+{
+  "sheet_id": "sheet-c2",
+  "canvas_px": [
+    1536,
+    1024
+  ],
+  "grid": [
+    3,
+    2
+  ],
+  "cell_px": [
+    512,
+    512
+  ],
+  "key": "#FF00FF",
+  "order": [
+    "decision",
+    "metacognition",
+    "execution",
+    "doc_gears",
+    "bubble_h",
+    "bubble_a"
+  ],
+  "prompt_file": "prompts\\sheet-c2.txt",
+  "prompt_chars_nonspace": 3068,
+  "plan_sha256": "e1cd365f61fbcdcb93eb9bdee9d84906ccc63f87e6e61795a15d7a2377ec2380"
+}

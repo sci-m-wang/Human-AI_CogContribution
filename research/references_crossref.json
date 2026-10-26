@@ -1,0 +1,506 @@
+{
+ "S001": {
+  "doi": "10.1207/s15430421tip4104_2",
+  "title": "A Revision of Bloom's Taxonomy: An Overview",
+  "authors": [
+   "Krathwohl, David R."
+  ],
+  "n_authors": 1,
+  "year": 2002,
+  "container": "Theory Into Practice",
+  "volume": "41",
+  "issue": "4",
+  "page": "212-218",
+  "type": "journal-article"
+ },
+ "S002": {
+  "doi": "10.1207/s15326985ep3102_2",
+  "title": "Types and qualities of knowledge",
+  "authors": [
+   "de Jong, Ton",
+   "Ferguson-Hessler, Monica G.M."
+  ],
+  "n_authors": 2,
+  "year": 1996,
+  "container": "Educational Psychologist",
+  "volume": "31",
+  "issue": "2",
+  "page": "105-113",
+  "type": "journal-article"
+ },
+ "S008": {
+  "doi": "10.2307/2392045",
+  "title": "The Structure of \"Unstructured\" Decision Processes",
+  "authors": [
+   "Mintzberg, Henry",
+   "Raisinghani, Duru",
+   "Theoret, Andre"
+  ],
+  "n_authors": 3,
+  "year": 1976,
+  "container": "Administrative Science Quarterly",
+  "volume": "21",
+  "issue": "2",
+  "page": "246",
+  "type": "journal-article"
+ },
+ "S013": {
+  "doi": "10.1016/j.destud.2003.10.010",
+  "title": "The situated function–behaviour–structure framework",
+  "authors": [
+   "Gero, John S.",
+   "Kannengiesser, Udo"
+  ],
+  "n_authors": 2,
+  "year": 2004,
+  "container": "Design Studies",
+  "volume": "25",
+  "issue": "4",
+  "page": "373-391",
+  "type": "journal-article"
+ },
+ "S014": {
+  "doi": "10.1207/s15516709cog1804_1",
+  "title": "On Distinguishing Epistemic from Pragmatic Action",
+  "authors": [
+   "Kirsh, David",
+   "Maglio, Paul"
+  ],
+  "n_authors": 2,
+  "year": 1994,
+  "container": "Cognitive Science",
+  "volume": "18",
+  "issue": "4",
+  "page": "513-549",
+  "type": "journal-article"
+ },
+ "S022": {
+  "doi": "10.1037/0003-066x.34.10.906",
+  "title": "Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry.",
+  "authors": [
+   "Flavell, John H."
+  ],
+  "n_authors": 1,
+  "year": 1979,
+  "container": "American Psychologist",
+  "volume": "34",
+  "issue": "10",
+  "page": "906-911",
+  "type": "journal-article"
+ },
+ "S029": {
+  "doi": "10.1080/08923640109527071",
+  "title": "Critical thinking, cognitive presence, and computer conferencing in distance education",
+  "authors": [
+   "Garrison, D. Randy",
+   "Anderson, Terry",
+   "Archer, Walter"
+  ],
+  "n_authors": 3,
+  "year": 2001,
+  "container": "American Journal of Distance Education",
+  "volume": "15",
+  "issue": "1",
+  "page": "7-23",
+  "type": "journal-article"
+ },
+ "S035": {
+  "doi": "10.1038/s41562-024-02024-1",
+  "title": "When combinations of humans and AI are useful: A systematic review and meta-analysis",
+  "authors": [
+   "Vaccaro, Michelle",
+   "Almaatouq, Abdullah",
+   "Malone, Thomas"
+  ],
+  "n_authors": 3,
+  "year": 2024,
+  "container": "Nature Human Behaviour",
+  "volume": "8",
+  "issue": "12",
+  "page": "2293-2303",
+  "type": "journal-article"
+ },
+ "S047": {
+  "doi": "10.1145/3706598.3713778",
+  "title": "The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers",
+  "authors": [
+   "Lee, Hao-Ping (Hank)",
+   "Sarkar, Advait",
+   "Tankelevitch, Lev",
+   "Drosos, Ian",
+   "Rintel, Sean",
+   "Banks, Richard",
+   "Wilson, Nicholas"
+  ],
+  "n_authors": 7,
+  "year": 2025,
+  "container": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+  "volume": null,
+  "issue": null,
+  "page": "1-22",
+  "type": "proceedings-article"
+ },
+ "S051": {
+  "doi": "10.1145/3491102.3502030",
+  "title": "CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities",
+  "authors": [
+   "Lee, Mina",
+   "Liang, Percy",
+   "Yang, Qian"
+  ],
+  "n_authors": 3,
+  "year": 2022,
+  "container": "CHI Conference on Human Factors in Computing Systems",
+  "volume": null,
+  "issue": null,
+  "page": "1-19",
+  "type": "proceedings-article"
+ },
+ "S058": {
+  "doi": "10.3115/981823.981833",
+  "title": "Mixed initiative in dialogue",
+  "authors": [
+   "Walker, Marilyn",
+   "Whittaker, Steve"
+  ],
+  "n_authors": 2,
+  "year": 1990,
+  "container": "Proceedings of the 28th annual meeting on Association for Computational Linguistics  -",
+  "volume": "",
+  "issue": "",
+  "page": "70-78",
+  "type": "proceedings-article"
+ },
+ "S059": {
+  "doi": "10.1145/3613904.3642902",
+  "title": "The Metacognitive Demands and Opportunities of Generative AI",
+  "authors": [
+   "Tankelevitch, Lev",
+   "Kewenig, Viktor",
+   "Simkute, Auste",
+   "Scott, Ava Elizabeth",
+   "Sarkar, Advait",
+   "Sellen, Abigail",
+   "Rintel, Sean"
+  ],
+  "n_authors": 7,
+  "year": 2024,
+  "container": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+  "volume": null,
+  "issue": null,
+  "page": "1-24",
+  "type": "proceedings-article"
+ },
+ "S061": {
+  "doi": "10.1080/19312450709336664",
+  "title": "Answering the Call for a Standard Reliability Measure for Coding Data",
+  "authors": [
+   "Hayes, Andrew F.",
+   "Krippendorff, Klaus"
+  ],
+  "n_authors": 2,
+  "year": 2007,
+  "container": "Communication Methods and Measures",
+  "volume": "1",
+  "issue": "1",
+  "page": "77-89",
+  "type": "journal-article"
+ },
+ "S062": {
+  "doi": "10.1162/coli.07-034-r2",
+  "title": "Inter-Coder Agreement for Computational Linguistics",
+  "authors": [
+   "Artstein, Ron",
+   "Poesio, Massimo"
+  ],
+  "n_authors": 2,
+  "year": 2008,
+  "container": "Computational Linguistics",
+  "volume": "34",
+  "issue": "4",
+  "page": "555-596",
+  "type": "journal-article"
+ },
+ "S064": {
+  "doi": "10.1177/1525822x980100020301",
+  "title": "Codebook Development for Team-Based Qualitative Analysis",
+  "authors": [
+   "MacQueen, Kathleen M.",
+   "McLellan, Eleanor",
+   "Kay, Kelly",
+   "Milstein, Bobby"
+  ],
+  "n_authors": 4,
+  "year": 1998,
+  "container": "CAM Journal",
+  "volume": "10",
+  "issue": "2",
+  "page": "31-36",
+  "type": "journal-article"
+ },
+ "S065": {
+  "doi": "10.1073/pnas.2305016120",
+  "title": "ChatGPT outperforms crowd workers for text-annotation tasks",
+  "authors": [
+   "Gilardi, Fabrizio",
+   "Alizadeh, Meysam",
+   "Kubli, Maël"
+  ],
+  "n_authors": 3,
+  "year": 2023,
+  "container": "Proceedings of the National Academy of Sciences",
+  "volume": "120",
+  "issue": "30",
+  "page": null,
+  "type": "journal-article"
+ },
+ "S068": {
+  "doi": "10.1145/3581754.3584136",
+  "title": "Supporting Qualitative Analysis with Large Language Models: Combining Codebook with GPT-3 for Deductive Coding",
+  "authors": [
+   "Xiao, Ziang",
+   "Yuan, Xingdi",
+   "Liao, Q. Vera",
+   "Abdelghani, Rania",
+   "Oudeyer, Pierre-Yves"
+  ],
+  "n_authors": 5,
+  "year": 2023,
+  "container": "28th International Conference on Intelligent User Interfaces",
+  "volume": null,
+  "issue": null,
+  "page": "75-78",
+  "type": "proceedings-article"
+ },
+ "S069": {
+  "doi": "10.1145/3617362",
+  "title": "CoAIcoder: Examining the Effectiveness of AI-assisted Human-to-Human Collaboration in Qualitative Analysis",
+  "authors": [
+   "Gao, Jie",
+   "Choo, Kenny Tsu Wei",
+   "Cao, Junming",
+   "Lee, Roy Ka-Wei",
+   "Perrault, Simon"
+  ],
+  "n_authors": 5,
+  "year": 2023,
+  "container": "ACM Transactions on Computer-Human Interaction",
+  "volume": "31",
+  "issue": "1",
+  "page": "1-38",
+  "type": "journal-article"
+ },
+ "S072": {
+  "doi": "10.2307/25148625",
+  "title": "Design Science in Information Systems Research1",
+  "authors": [
+   "Hevner, Alan R.",
+   "March, Salvatore T.",
+   "Park, Jinsoo",
+   "Ram, Sudha"
+  ],
+  "n_authors": 4,
+  "year": 2004,
+  "container": "MIS Quarterly",
+  "volume": "28",
+  "issue": "1",
+  "page": "75-106",
+  "type": "journal-article"
+ },
+ "S074": {
+  "doi": "10.2307/258557",
+  "title": "Building Theories from Case Study Research",
+  "authors": [
+   "Eisenhardt, Kathleen M."
+  ],
+  "n_authors": 1,
+  "year": 1989,
+  "container": "The Academy of Management Review",
+  "volume": "14",
+  "issue": "4",
+  "page": "532",
+  "type": "journal-article"
+ },
+ "S075": {
+  "doi": "10.1177/16094069251383739",
+  "title": "AI as a Co-researcher in the Qualitative Research Workflow: Transforming Human-AI Collaboration",
+  "authors": [
+   "Costa, António Pedro",
+   "Bryda, Grzegorz",
+   "Christou, Prokopis A.",
+   "Kasperiuniene, Judita"
+  ],
+  "n_authors": 4,
+  "year": 2025,
+  "container": "International Journal of Qualitative Methods",
+  "volume": "24",
+  "issue": null,
+  "page": null,
+  "type": "journal-article"
+ },
+ "S076": {
+  "doi": "10.1287/isre.14.3.221.16560",
+  "title": "Generalizing Generalizability in Information Systems Research",
+  "authors": [
+   "Lee, Allen S.",
+   "Baskerville, Richard L."
+  ],
+  "n_authors": 2,
+  "year": 2003,
+  "container": "Information Systems Research",
+  "volume": "14",
+  "issue": "3",
+  "page": "221-243",
+  "type": "journal-article"
+ },
+ "S016": {
+  "doi": "10.1093/analys/58.1.7",
+  "title": "The Extended Mind",
+  "authors": [
+   "Clark, A.",
+   "Chalmers, D."
+  ],
+  "n_authors": 2,
+  "year": 1998,
+  "container": "Analysis",
+  "volume": "58",
+  "issue": "1",
+  "page": "7-19",
+  "type": "journal-article"
+ },
+ "S017": {
+  "doi": "10.1016/j.tics.2016.07.002",
+  "title": "Cognitive Offloading",
+  "authors": [
+   "Risko, Evan F.",
+   "Gilbert, Sam J."
+  ],
+  "n_authors": 2,
+  "year": 2016,
+  "container": "Trends in Cognitive Sciences",
+  "volume": "20",
+  "issue": "9",
+  "page": "676-688",
+  "type": "journal-article"
+ },
+ "S030": {
+  "doi": "10.5465/amr.2018.0072",
+  "title": "Artificial Intelligence and Management: The Automation–Augmentation Paradox",
+  "authors": [
+   "Raisch, Sebastian",
+   "Krakowski, Sebastian"
+  ],
+  "n_authors": 2,
+  "year": 2021,
+  "container": "Academy of Management Review",
+  "volume": "46",
+  "issue": "1",
+  "page": "192-210",
+  "type": "journal-article"
+ },
+ "S045": {
+  "doi": "10.1038/s41586-026-10644-y",
+  "title": "Accelerating scientific discovery with Co-Scientist",
+  "authors": [
+   "Gottweis, Juraj",
+   "Weng, Wei-Hung",
+   "Daryin, Alexander",
+   "Tu, Tao",
+   "Sirkovic, Petar",
+   "Myaskovsky, Artiom",
+   "Glowaty, Grzegorz",
+   "Weissenberger, Felix",
+   "Orlandi, Alessio",
+   "Popovici, Dan",
+   "Palepu, Anil",
+   "Rong, Keran"
+  ],
+  "n_authors": 51,
+  "year": 2026,
+  "container": "Nature",
+  "volume": "655",
+  "issue": "8122",
+  "page": "487-496",
+  "type": "journal-article"
+ },
+ "S066": {
+  "doi": "10.1162/coli_a_00502",
+  "title": "Can Large Language Models Transform Computational Social Science?",
+  "authors": [
+   "Ziems, Caleb",
+   "Held, William",
+   "Shaikh, Omar",
+   "Chen, Jiaao",
+   "Zhang, Zhehao",
+   "Yang, Diyi"
+  ],
+  "n_authors": 6,
+  "year": 2024,
+  "container": "Computational Linguistics",
+  "volume": "50",
+  "issue": "1",
+  "page": "237-291",
+  "type": "journal-article"
+ },
+ "S067": {
+  "doi": "10.48550/arXiv.2306.00176",
+  "title": "Automated Annotation with Generative AI Requires Validation",
+  "authors": [
+   "Pangakis, Nicholas",
+   "Wolken, Samuel",
+   "Fasching, Neil"
+  ],
+  "n_authors": 3,
+  "year": 2023,
+  "container": "arXiv",
+  "volume": "",
+  "issue": "",
+  "page": "",
+  "type": "posted-content"
+ },
+ "S070": {
+  "doi": "10.48550/arXiv.2306.05685",
+  "title": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena",
+  "authors": [
+   "Zheng, Lianmin",
+   "Chiang, Wei-Lin",
+   "Sheng, Ying",
+   "Zhuang, Siyuan",
+   "Wu, Zhanghao",
+   "Zhuang, Yonghao",
+   "Lin, Zi",
+   "Li, Zhuohan",
+   "Li, Dacheng",
+   "Xing, Eric P.",
+   "Zhang, Hao",
+   "Gonzalez, Joseph E.",
+   "Stoica, Ion"
+  ],
+  "n_authors": 13,
+  "year": 2023,
+  "container": "arXiv",
+  "volume": "",
+  "issue": "",
+  "page": "",
+  "type": "posted-content"
+ },
+ "S043": {
+  "doi": "10.48550/arXiv.2408.06292",
+  "title": "The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery",
+  "authors": [
+   "Lu, Chris",
+   "Lu, Cong",
+   "Lange, Robert Tjarko",
+   "Foerster, Jakob",
+   "Clune, Jeff",
+   "Ha, David"
+  ],
+  "n_authors": 6,
+  "year": 2024,
+  "container": "arXiv",
+  "volume": "",
+  "issue": "",
+  "page": "",
+  "type": "posted-content"
+ }
+}

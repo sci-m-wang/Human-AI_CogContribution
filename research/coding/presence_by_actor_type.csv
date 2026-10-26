@@ -1,0 +1,16 @@
+actor,n_units,type,gpt,gemini,both,gpt_pct,gemini_pct,both_pct
+human,13,K,7,6,5,54,46,38
+human,13,P,3,2,2,23,15,15
+human,13,D,11,11,11,85,85,85
+human,13,M,12,12,12,92,92,92
+human,13,X,0,0,0,0,0,0
+AI-primary,53,K,33,23,22,62,43,42
+AI-primary,53,P,11,14,10,21,26,19
+AI-primary,53,D,12,10,7,23,19,13
+AI-primary,53,M,48,41,41,91,77,77
+AI-primary,53,X,5,20,5,9,38,9
+AI-subagent,40,K,15,12,12,38,30,30
+AI-subagent,40,P,2,1,1,5,2,2
+AI-subagent,40,D,1,1,1,2,2,2
+AI-subagent,40,M,35,38,35,88,95,88
+AI-subagent,40,X,3,32,3,8,80,8

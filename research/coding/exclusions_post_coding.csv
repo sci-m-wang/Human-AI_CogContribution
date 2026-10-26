@@ -1,0 +1,8 @@
+unit_id,rule,note
+S13-U004,R3b context-compaction summary missed by R3,"found after coding, outputs archived and not used"
+S13-U012,R3b context-compaction summary missed by R3,"found after coding, outputs archived and not used"
+S13-U016,R3b context-compaction summary missed by R3,"found after coding, outputs archived and not used"
+S13-U020,R3b context-compaction summary missed by R3,"found after coding, outputs archived and not used"
+S13-U023,R3b context-compaction summary missed by R3,"found after coding, outputs archived and not used"
+S13-U029,R3b context-compaction summary missed by R3,"found after coding, outputs archived and not used"
+S13-U035,R3b context-compaction summary missed by R3,"found after coding, outputs archived and not used"

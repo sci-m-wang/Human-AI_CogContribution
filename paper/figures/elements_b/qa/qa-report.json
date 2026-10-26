@@ -1,0 +1,544 @@
+{
+  "elements": [
+    {
+      "size_px": [
+        318,
+        432
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        312,
+        426
+      ],
+      "visible_size_px": [
+        306,
+        420
+      ],
+      "visible_fraction": 0.6055,
+      "components": 1,
+      "edge_key_spill": 0.0,
+      "placed_width_mm": 18.26,
+      "effective_dpi": 425.6,
+      "required_px_at_target": 216,
+      "problems": [],
+      "warnings": [],
+      "id": "coder_a",
+      "status": "pass"
+    },
+    {
+      "size_px": [
+        314,
+        421
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        308,
+        415
+      ],
+      "visible_size_px": [
+        302,
+        409
+      ],
+      "visible_fraction": 0.6098,
+      "components": 1,
+      "edge_key_spill": 0.0,
+      "placed_width_mm": 18.26,
+      "effective_dpi": 420.0,
+      "required_px_at_target": 216,
+      "problems": [],
+      "warnings": [],
+      "id": "coder_b",
+      "status": "pass"
+    },
+    {
+      "size_px": [
+        411,
+        333
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        405,
+        327
+      ],
+      "visible_size_px": [
+        399,
+        321
+      ],
+      "visible_fraction": 0.3258,
+      "components": 1,
+      "edge_key_spill": 0.0,
+      "placed_width_mm": 21.48,
+      "effective_dpi": 471.7,
+      "required_px_at_target": 254,
+      "problems": [],
+      "warnings": [],
+      "id": "scales",
+      "status": "pass"
+    },
+    {
+      "size_px": [
+        365,
+        386
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        359,
+        380
+      ],
+      "visible_size_px": [
+        353,
+        374
+      ],
+      "visible_fraction": 0.7254,
+      "components": 1,
+      "edge_key_spill": 0.0,
+      "placed_width_mm": 18.26,
+      "effective_dpi": 491.0,
+      "required_px_at_target": 216,
+      "problems": [],
+      "warnings": [],
+      "id": "manuscript",
+      "status": "pass"
+    },
+    {
+      "size_px": [
+        355,
+        368
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        349,
+        362
+      ],
+      "visible_size_px": [
+        343,
+        356
+      ],
+      "visible_fraction": 0.7461,
+      "components": 1,
+      "edge_key_spill": 0.0,
+      "placed_width_mm": 18.26,
+      "effective_dpi": 477.1,
+      "required_px_at_target": 216,
+      "problems": [],
+      "warnings": [],
+      "id": "pages",
+      "status": "pass"
+    },
+    {
+      "size_px": [
+        311,
+        368
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        305,
+        362
+      ],
+      "visible_size_px": [
+        299,
+        356
+      ],
+      "visible_fraction": 0.8569,
+      "components": 1,
+      "edge_key_spill": 0.0,
+      "placed_width_mm": 21.48,
+      "effective_dpi": 353.5,
+      "required_px_at_target": 254,
+      "problems": [],
+      "warnings": [],
+      "id": "question_doc",
+      "status": "pass"
+    },
+    {
+      "size_px": [
+        341,
+        361
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        335,
+        355
+      ],
+      "visible_size_px": [
+        329,
+        349
+      ],
+      "visible_fraction": 0.5215,
+      "components": 1,
+      "edge_key_spill": 0.0,
+      "placed_width_mm": 18.26,
+      "effective_dpi": 457.6,
+      "required_px_at_target": 216,
+      "problems": [],
+      "warnings": [],
+      "id": "st_lit",
+      "status": "pass"
+    },
+    {
+      "size_px": [
+        354,
+        397
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        348,
+        391
+      ],
+      "visible_size_px": [
+        342,
+        385
+      ],
+      "visible_fraction": 0.3738,
+      "components": 6,
+      "edge_key_spill": 0.0,
+      "placed_width_mm": 18.26,
+      "effective_dpi": 475.7,
+      "required_px_at_target": 216,
+      "problems": [],
+      "warnings": [],
+      "id": "st_theory",
+      "status": "pass"
+    },
+    {
+      "size_px": [
+        348,
+        358
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        342,
+        352
+      ],
+      "visible_size_px": [
+        336,
+        346
+      ],
+      "visible_fraction": 0.2964,
+      "components": 1,
+      "edge_key_spill": 0.0,
+      "placed_width_mm": 21.48,
+      "effective_dpi": 397.2,
+      "required_px_at_target": 254,
+      "problems": [],
+      "warnings": [],
+      "id": "st_design",
+      "status": "pass"
+    },
+    {
+      "size_px": [
+        317,
+        364
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        311,
+        358
+      ],
+      "visible_size_px": [
+        305,
+        352
+      ],
+      "visible_fraction": 0.5738,
+      "components": 1,
+      "edge_key_spill": 0.0,
+      "placed_width_mm": 18.26,
+      "effective_dpi": 424.2,
+      "required_px_at_target": 216,
+      "problems": [],
+      "warnings": [],
+      "id": "st_analysis",
+      "status": "pass"
+    },
+    {
+      "size_px": [
+        368,
+        298
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        362,
+        292
+      ],
+      "visible_size_px": [
+        356,
+        286
+      ],
+      "visible_fraction": 0.7033,
+      "components": 1,
+      "edge_key_spill": 0.0,
+      "placed_width_mm": 18.26,
+      "effective_dpi": 495.2,
+      "required_px_at_target": 216,
+      "problems": [],
+      "warnings": [],
+      "id": "st_interp",
+      "status": "pass"
+    },
+    {
+      "size_px": [
+        298,
+        363
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        292,
+        357
+      ],
+      "visible_size_px": [
+        286,
+        351
+      ],
+      "visible_fraction": 0.9006,
+      "components": 1,
+      "edge_key_spill": 0.0,
+      "placed_width_mm": 21.48,
+      "effective_dpi": 338.1,
+      "required_px_at_target": 254,
+      "problems": [],
+      "warnings": [],
+      "id": "st_write",
+      "status": "pass"
+    },
+    {
+      "size_px": [
+        298,
+        406
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        292,
+        400
+      ],
+      "visible_size_px": [
+        286,
+        394
+      ],
+      "visible_fraction": 0.8437,
+      "components": 1,
+      "edge_key_spill": 0.0,
+      "placed_width_mm": 18.26,
+      "effective_dpi": 397.8,
+      "required_px_at_target": 216,
+      "problems": [],
+      "warnings": [],
+      "id": "st_verify",
+      "status": "pass"
+    },
+    {
+      "size_px": [
+        368,
+        367
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        362,
+        361
+      ],
+      "visible_size_px": [
+        356,
+        355
+      ],
+      "visible_fraction": 0.4477,
+      "components": 2,
+      "edge_key_spill": 0.0,
+      "placed_width_mm": 18.26,
+      "effective_dpi": 495.2,
+      "required_px_at_target": 216,
+      "problems": [],
+      "warnings": [],
+      "id": "st_revise",
+      "status": "pass"
+    },
+    {
+      "size_px": [
+        366,
+        365
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        360,
+        359
+      ],
+      "visible_size_px": [
+        354,
+        353
+      ],
+      "visible_fraction": 0.532,
+      "components": 1,
+      "edge_key_spill": 0.0,
+      "placed_width_mm": 21.48,
+      "effective_dpi": 418.5,
+      "required_px_at_target": 254,
+      "problems": [],
+      "warnings": [],
+      "id": "gear_grey",
+      "status": "pass"
+    },
+    {
+      "size_px": [
+        343,
+        383
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        337,
+        377
+      ],
+      "visible_size_px": [
+        331,
+        371
+      ],
+      "visible_fraction": 0.3884,
+      "components": 1,
+      "edge_key_spill": 0.0,
+      "placed_width_mm": 18.26,
+      "effective_dpi": 460.4,
+      "required_px_at_target": 216,
+      "problems": [],
+      "warnings": [],
+      "id": "scissors",
+      "status": "pass"
+    },
+    {
+      "size_px": [
+        366,
+        364
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        360,
+        358
+      ],
+      "visible_size_px": [
+        354,
+        352
+      ],
+      "visible_fraction": 0.7345,
+      "components": 1,
+      "edge_key_spill": 0.0,
+      "placed_width_mm": 18.26,
+      "effective_dpi": 492.4,
+      "required_px_at_target": 216,
+      "problems": [],
+      "warnings": [],
+      "id": "check_badge",
+      "status": "pass"
+    },
+    {
+      "size_px": [
+        367,
+        366
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bbox_px": [
+        6,
+        6,
+        361,
+        360
+      ],
+      "visible_size_px": [
+        355,
+        354
+      ],
+      "visible_fraction": 0.7327,
+      "components": 1,
+      "edge_key_spill": 0.0,
+      "placed_width_mm": 18.26,
+      "effective_dpi": 493.8,
+      "required_px_at_target": 216,
+      "problems": [],
+      "warnings": [],
+      "id": "cross_badge",
+      "status": "pass"
+    }
+  ]
+}
